@@ -1,0 +1,711 @@
+"","hotornot","year","config","drivetrain","mileage.x","ext_color","int_color","price.x","good_deal_margin","deal","dealer","dealer_rating","dealer_review_number","consumer_rating","consumer_review_number","fleet","hasAccidents","daysOnMarket","ownerCount"
+"1","NOT HOT",2013,"Base","RWD",65473,"Brown","Beige",37480,34759,"Fair","The Motor Collection",5,5,4.9,47,"False","False",246,2
+"2","NOT HOT",2013,"Base","RWD",50677,"Brown","Beige",30998,34930,"Good","Hanna Imports",4.9,1917,4.9,47,"False","False",137,1
+"3","NOT HOT",2013,"Base","RWD",41152,"Green","Beige",34900,41003,"Great","Classic Cars Of Palm Beach LLC",5,111,4.9,47,"True","True",106,1
+"4","NOT HOT",2013,"Base","RWD",71885,"Black","Beige",33880,38985,"Great","Auto Quest",4.6,57,4.9,47,"False","False",94,2
+"5","NOT HOT",2013,"Base","RWD",62454,"Black","Black",34995,35105,"Good","California Car Company",3.3,13,4.9,47,"False","False",144,3
+"6","NOT HOT",2013,"Base","RWD",49077,"White","Black",32950,34974,"Good","Zone Motors",3.6,34,4.9,47,"False","False",156,1
+"7","NOT HOT",2013,"Base","RWD",41355,"Brown","Beige",36900,51836.0835579515,"not_rating","Temecula Hyundai",4.8,871,4.9,47,"True","False",346,1
+"8","NOT HOT",2013,"Base","RWD",35231,"White","Black",36815,39019,"Good","Indy Auto Imports",4.8,207,4.9,47,"False","False",95,1
+"9","NOT HOT",2013,"Base","RWD",39257,"White","Beige",35498,41383,"Great","Audi Peoria",4.6,230,4.9,47,"False","False",75,1
+"10","NOT HOT",2013,"Base","RWD",63794,"Black","Other",29990,32280,"Good","Auto Hub",4.2,32,4.9,47,"True","False",31,2
+"11","NOT HOT",2013,"","RWD",52815,"Green","Black",33884,36794,"Good","Earth Motorcars",4.6,307,4.9,47,"False","True",41,2
+"12","NOT HOT",2013,"Base","RWD",46466,"Brown","Beige",31990,34996,"Good","NextGear Motors",4.4,7,4.9,47,"False","False",116,2
+"13","NOT HOT",2013,"Base","RWD",22456,"White","Gray",33699,38871,"Great","DriveMaxGroup.com",4.1,63,4.9,47,"False","False",121,1
+"14","NOT HOT",2013,"Base","RWD",48500,"Black","Other",34800,34996,"Good","Ultimo Motors West",4.7,393,4.9,47,"False","True",269,1
+"15","NOT HOT",2013,"Base","RWD",84614,"White","Beige",29999,29104,"Fair","Las Vegas Auto Sport",3.4,10,4.9,47,"False","False",60,2
+"16","NOT HOT",2013,"Base","RWD",26805,"Black","Black",35995,36578,"Good","Nissan of New Rochelle",4.7,361,4.9,47,"False","False",43,1
+"17","NOT HOT",2013,"Base","RWD",154214,"White","Black",27500,29476,"Good","House of Imports",4.7,618,4.9,47,"True","False",71,4
+"18","NOT HOT",2013,"Base","RWD",15559,"White","Black",43995,41440,"Fair","O.C. AUTOHAUS",4.3,67,4.9,47,"False","False",294,3
+"19","NOT HOT",2013,"Base","RWD",71350,"Other","Other",32991,35162,"not_rating","Audi of Downtown L.A.",4.7,119,4.9,47,"False","True",2,3
+"20","NOT HOT",2013,"Base","RWD",63810,"Blue","Beige",31990,35394,"Good","Sheehy Hyundai of Waldorf",4.2,112,4.9,47,"False","False",16,3
+"21","NOT HOT",2013,"Base","RWD",41677,"Silver","Beige",34900,35971,"Good","Mazda of Orange",4.8,1112,4.9,47,"True","False",134,1
+"22","NOT HOT",2013,"Base","RWD",94420,"Gray","Black",29900,31886,"Good","Austin Direct Auto Sales",2.3,62,4.9,47,"False","False",144,1
+"23","NOT HOT",2013,"Base","RWD",79278,"Red","Other",29555,33378,"Good","Sam Jidd Luxury LLC",3.9,7,4.9,47,"True","False",162,1
+"24","NOT HOT",2013,"Base","RWD",41335,"White","Beige",34970,35741,"Good","Virginia Luxury Motors",2.3,6,4.9,47,"True","False",43,2
+"25","NOT HOT",2013,"Base","RWD",79197,"Blue","Other",31372,33544,"Good","Midwest Automotive Connection",4.3,95,4.9,47,"False","False",36,1
+"26","NOT HOT",2013,"Base","RWD",67345,"White","Beige",33500,34911,"Good","Ganley Subaru of Bedford",4.9,315,4.9,47,"False","True",33,2
+"27","HOT CAR",2013,"Base","RWD",44430,"Black","Gray",34900,37295,"Good","Auto Merchants Inc.",3.7,98,4.9,47,"False","False",10,2
+"28","NOT HOT",2013,"Base","RWD",89910,"Green","Black",29991,31953,"Good","Nxcess Motorcars",2,106,4.9,47,"False","False",131,1
+"29","NOT HOT",2013,"","RWD",39505,"Black","Gray",36995,37466,"Good","Maximum Auto Outlet",2.6,363,4.9,47,"False","False",357,1
+"30","NOT HOT",2013,"Base","RWD",34970,"Gray","Gray",31995,36505,"Good","Highline Auto Sales",4.6,272,4.9,47,"False","False",8,1
+"31","NOT HOT",2013,"Base","RWD",43161,"Silver","Black",34915,36332,"Good","San Diego Auto Finder",5,6,4.9,47,"True","False",35,1
+"32","NOT HOT",2013,"Base","RWD",45202,"Gray","Gray",36995,35131,"Fair","Imperial Highline",4.6,29,4.9,47,"True","True",335,1
+"33","NOT HOT",2013,"Base","RWD",31948,"Black","Gray",34877,36525,"Good","Autos Direct of Fredericksburg - Lafayette",3.4,66,4.9,47,"False","False",177,1
+"34","NOT HOT",2013,"Base","RWD",37000,"Silver","Beige",59990,51836.0835579515,"not_rating","Atlanta Fine Cars",4.4,32,4.9,47,"False","True",194,2
+"35","NOT HOT",2013,"Base","RWD",50846,"Brown","Black",34995,36366,"Good","Black Label Auto Firm",4,4,4.9,47,"False","False",11,2
+"36","NOT HOT",2013,"Base","RWD",9508,"White","Black",38957,43216,"Good","Jaguar Land Rover Treasure Coast",4.9,146,4.9,47,"False","False",155,1
+"37","NOT HOT",2013,"Base","RWD",89001,"Silver","Black",30999,29076,"Fair","Las Vegas Auto Sport",3.4,10,4.9,47,"False","False",44,1
+"38","NOT HOT",2013,"Base","RWD",37147,"Red","Black",35995,51836.0835579515,"not_rating","Import Auto, Ltd.",5,1,4.9,47,"False","False",334,2
+"39","HOT CAR",2013,"Base","RWD",38128,"Gray","Other",38950,41379,"Good","Luxury Auto Plex LLC",4,11,4.9,47,"False","False",14,1
+"40","NOT HOT",2013,"Base","RWD",61427,"Black","Black",34995,35088,"Good","California Car Company",3.3,13,4.9,47,"False","False",65,2
+"41","NOT HOT",2013,"Base","RWD",55749,"Other","Other",35991,35540,"Fair","Audi of Downtown L.A.",4.7,119,4.9,47,"False","False",21,2
+"42","NOT HOT",2012,"Signature","RWD",47192,"Green","Gray",35900,36969,"Good","Lustine Chrysler Jeep Dodge RAM",4.4,974,4.6,11,"True","False",365,1
+"43","NOT HOT",2012,"Signature","RWD",40546,"Blue","Other",39592,42584,"Good","Hyundai Nissan of Serramonte",1,105,4.6,11,"True","False",76,1
+"44","NOT HOT",2013,"Base","RWD",41927,"Black","Black",44995,38083,"Fair","Regan Motors",3.7,21,4.9,47,"False","False",239,3
+"45","NOT HOT",2013,"Base","RWD",68281,"Red","Beige",35996,39052,"Good","Landmark Motors",4.5,87,4.9,47,"False","False",145,2
+"46","NOT HOT",2013,"Base","RWD",49883,"Blue","Other",34999,35562,"Good","Schoepp Motors - Northeast",4.39333333333333,592.363265306122,4.9,47,"False","False",214,2
+"47","NOT HOT",2013,"Base","RWD",66060,"Silver","Other",36989,37163,"Good","Mercedes-Benz of Salem",5,171,4.9,47,"False","False",155,2
+"48","NOT HOT",2013,"Base","RWD",69733,"Black","Other",34999,35084,"Good","Midwest Automotive Connection",4.3,95,4.9,47,"True","False",80,2
+"49","NOT HOT",2013,"Base","RWD",35442,"Silver","Beige",39390,44204,"Good","Northwest Motorsport - Puyallup",4.9,12245,4.9,47,"True","False",109,1
+"50","NOT HOT",2013,"Base","RWD",52004,"Silver","Black",37999,38583,"Good","OutLet4Cars.com",5,12,4.9,47,"False","False",119,3
+"51","HOT CAR",2012,"Signature","RWD",127834,"Other","Beige",26900,21064,"Fair","Auto Merchants Inc.",3.7,98,4.6,11,"False","False",19,2
+"52","NOT HOT",2013,"Base","RWD",57072,"Black","Black",31995,35239,"Good","Highline Auto Sales",4.6,272,4.9,47,"False","False",15,1
+"53","NOT HOT",2013,"Base","RWD",57000,"Silver","Other",35999,36651,"Good","Siry Auto Group",4.8,472,4.9,47,"True","False",4,3
+"54","NOT HOT",2013,"Base","RWD",103600,"White","Black",31900,30312,"Fair","Best Car N Care Inc.",1,5,4.9,47,"True","False",280,1
+"55","NOT HOT",2013,"Base","RWD",52000,"Blue","Gray",35950,35270,"Fair","West Coast Motor Sports",5,2,4.9,47,"True","False",220,1
+"56","NOT HOT",2013,"Base","RWD",82033,"Gray","Black",29995,33182,"Good","Black Label Auto Firm",4,4,4.9,47,"False","True",16,2
+"57","HOT CAR",2013,"Base","RWD",33524,"White","Other",41987,51836.0835579515,"not_rating","Integrity Auto Sales",4.5,33,4.9,47,"False","False",3,2
+"58","HOT CAR",2013,"Base","RWD",49978,"Brown","Gray",36995,40044,"Good","City Auto Sales, LLC",4.7,155,4.9,47,"False","False",2,1
+"59","NOT HOT",2013,"Base","RWD",72398,"Red","Gray",31995,34760,"Good","Richard Catena Auto Wholesalers",4.7,920,4.9,47,"False","True",26,1
+"60","NOT HOT",2013,"Base","RWD",122326,"White","Other",27555,29658,"Good","Sam Jidd Luxury LLC",3.9,7,4.9,47,"False","False",23,2
+"61","NOT HOT",2013,"Base","RWD",86650,"Red","Black",32995,33189,"Good","Black Label Auto Firm",4,4,4.9,47,"False","False",42,2
+"62","NOT HOT",2013,"Base","RWD",54568,"Green","Black",39900,35012,"Fair","Specialties Automotive Group",4.39333333333333,592.363265306122,4.9,47,"False","False",38,2
+"63","HOT CAR",2013,"Base","RWD",58416,"Black","Black",32990,35176,"Good","Georgia Auto World",3.2,51,4.9,47,"False","False",4,2
+"64","NOT HOT",2013,"Base","RWD",79408,"White","Black",33394,34169,"Good","Team Chevrolet",4.9,23,4.9,47,"False","False",11,1
+"65","NOT HOT",2012,"Base","RWD",61112,"Other","Beige",29995,34893,"Good","ZAG Motors Everett",2.9,64,4.6,11,"False","False",38,1
+"66","NOT HOT",2013,"Base","RWD",99673,"Blue","Black",28995,30642,"Good","Rev It Motors",5,3,4.9,47,"False","False",38,2
+"67","NOT HOT",2013,"Base","RWD",66001,"Gray","Silver",32990,34904,"Good","NextGear Motors",4.4,7,4.9,47,"True","False",100,1
+"68","NOT HOT",2012,"Signature Performance","RWD",41772,"Blue","Beige",41300,44983,"Good","Hollywood Auto Center Inc.",4.39333333333333,592.363265306122,4.6,11,"True","False",352,1
+"69","NOT HOT",2013,"Performance","RWD",29795,"White","Beige",47999,46763,"Fair","Galleria Motorcars",4.39333333333333,592.363265306122,4.9,47,"False","False",310,1
+"70","NOT HOT",2013,"Performance","RWD",31893,"Red","Black",49863,53791,"Good","Platinum Autos",4.8,75,4.9,47,"False","False",220,1
+"71","NOT HOT",2013,"Performance","RWD",17626,"Red","Black",58800,43151,"Fair","Roadsport",4.39333333333333,592.363265306122,4.9,47,"False","False",372,3
+"72","NOT HOT",2013,"Performance","RWD",62448,"Blue","Beige",39995,40547,"Good","Specialties Automotive Group",4.39333333333333,592.363265306122,4.9,47,"False","True",231,1
+"73","NOT HOT",2013,"Performance","RWD",90877,"White","Other",33995,29953,"Fair","Stinnett Chevrolet Buick Chrysler Jeep Dodge RAM",5,4,4.9,47,"False","False",66,3
+"74","NOT HOT",2013,"Performance","RWD",24980,"Gray","Beige",42881,47058,"Good","Carrollton Motors",5,11,4.9,47,"False","False",24,2
+"75","NOT HOT",2013,"Performance","RWD",68988,"White","White",39995,42023,"Good","City Auto Sales, LLC",4.7,155,4.9,47,"False","False",23,2
+"76","HOT CAR",2012,"Performance","RWD",64085,"Other","Beige",35841,43844,"Great","East Bay MINI",5,21,4.6,11,"False","False",4,2
+"77","NOT HOT",2013,"Performance","RWD",58435,"Gray","Beige",35988,48193,"Great","Definitive Motors",4.8,63,4.9,47,"False","True",229,2
+"78","NOT HOT",2012,"Performance","RWD",25450,"Green","Beige",40995,45928,"Good","Kuni BMW",4.7,1094,4.6,11,"False","False",43,1
+"79","NOT HOT",2013,"Performance","RWD",21525,"Silver","Black",41948,46096,"Good","Hanna Imports",4.9,1917,4.9,47,"False","False",325,1
+"80","NOT HOT",2013,"Performance","RWD",25337,"White","Black",40288,41171,"Good","Berman Subaru of Chicago",4.7,268,4.9,47,"False","True",17,2
+"81","NOT HOT",2013,"Performance","RWD",62059,"White","Black",40995,42590,"Good","Scottsdale Auto Group",5,1,4.9,47,"False","False",63,2
+"82","NOT HOT",2012,"Signature Performance","RWD",67157,"Black","Black",35995,35012,"Fair","NESCO",4,34,4.6,11,"False","False",189,2
+"83","NOT HOT",2013,"Performance","RWD",26777,"Black","Black",44995,42068,"Fair","Palomino Motors",4.8,64,4.9,47,"False","False",85,1
+"84","NOT HOT",2013,"Performance","RWD",73464,"Green","Beige",36982,36437,"Fair","AutoNation Honda Fremont",4.6,623,4.9,47,"False","False",88,1
+"85","HOT CAR",2013,"Performance","RWD",79153,"Blue","Beige",36900,40636,"Good","Sunshine Auto Mall",5,211,4.9,47,"True","False",7,1
+"86","NOT HOT",2013,"Performance","RWD",65980,"Gray","Beige",35995,35125,"Fair","Auto Haus-German Automotive Specialist",4.9,90,4.9,47,"True","False",36,1
+"87","NOT HOT",2013,"Performance","RWD",121182,"Gray","Other",31995,51836.0835579515,"not_rating","Highline Auto Sales",4.6,272,4.9,47,"False","True",3,2
+"88","NOT HOT",2013,"Performance","RWD",43269,"Silver","Black",37995,40201,"Good","Imperial Highline",4.6,29,4.9,47,"True","False",3,1
+"89","HOT CAR",2013,"Performance","RWD",36614,"White","Black",42000,45934,"Good","Certified Benz & Beemer",4.9,7384,4.9,47,"False","False",235,3
+"90","NOT HOT",2013,"Performance","RWD",90239,"Black","Black",29995,31368,"Good","International Motor",4.3,19,4.9,47,"False","True",11,4
+"91","NOT HOT",2013,"Base","RWD",55972,"Silver","Gray",35995,39113,"Good","Freeman Motor Company of Portland",3.8,18,4.9,47,"False","False",18,1
+"92","NOT HOT",2013,"Base","RWD",100459,"Blue","Beige",27990,30438,"Good","CV Wholesale",4.39333333333333,592.363265306122,4.9,47,"True","False",31,2
+"93","NOT HOT",2013,"Base","RWD",23933,"White","Beige",43992,46637,"Good","Mark Mitsubishi Phoenix",4.1,57,4.9,47,"True","False",290,2
+"94","HOT CAR",2013,"Base","RWD",59589,"Black","Black",38865,51836.0835579515,"not_rating","Mercedes-Benz of Sacramento",4.3,1262,4.9,47,"False","False",5,2
+"95","NOT HOT",2013,"Base","RWD",88757,"Blue","Black",32559,32953,"Good","Leaders Motor Inc",4.39333333333333,592.363265306122,4.9,47,"False","False",28,2
+"96","NOT HOT",2013,"Performance","RWD",71101,"Black","Black",29995,34694,"Great","Highline Auto Sales",4.6,272,4.9,47,"False","True",26,2
+"97","NOT HOT",2012,"Signature","RWD",36621,"Blue","Black",33995,37612,"Good","Highline Auto Sales",4.6,272,4.6,11,"True","False",414,1
+"98","NOT HOT",2013,"Performance","RWD",51595,"Red","Black",37900,37755,"Good","Bussinger Automotive",4,17,4.9,47,"False","True",15,1
+"99","NOT HOT",2012,"Performance","RWD",45030,"Other","White",36888,48448,"Great","Private Collection Motors",4,52,4.6,11,"False","False",36,1
+"100","NOT HOT",2013,"Performance","RWD",58376,"Silver","Other",36995,37166,"Good","Serramonte Subaru Volkswagen",3.7,73,4.9,47,"False","False",91,2
+"101","NOT HOT",2013,"Base","4x2/2-wheel drive",33455,"Silver","Gray",32910,34706,"Good","Fortune Motor Group",4.8,249,4.9,47,"True","True",157,1
+"102","HOT CAR",2012,"Signature","RWD",73270,"Red","Beige",36995,38473,"Good","City Auto Sales, LLC",4.7,155,4.6,11,"True","False",2,1
+"103","NOT HOT",2013,"Performance","RWD",44647,"Black","Black",39850,42548,"Good","Fishers Imports",4.8,28,4.9,47,"True","False",400,1
+"104","NOT HOT",2013,"Base","RWD",51511,"Other","Other",32555,34930,"Good","Sam Jidd Luxury LLC",3.9,7,4.9,47,"True","False",162,2
+"105","NOT HOT",2012,"Signature","RWD",49900,"Silver","Black",36500,38038,"Good","Legend Auto Sales Inc",4.9,660,4.6,11,"True","True",88,1
+"106","NOT HOT",2013,"Base","RWD",118112,"Green","Black",31995,29826,"Fair","Imperial Highline",4.6,29,4.9,47,"True","False",241,1
+"107","HOT CAR",2013,"Base","RWD",68837,"Black","Beige",34999,36167,"Good","Green Eyed Motors",4,46,4.9,47,"False","False",4,1
+"108","NOT HOT",2013,"85","RWD",42642,"Red","Black",34589,39072,"Good","Auto Centrix",5,6,4.9,47,"False","False",52,1
+"109","NOT HOT",2013,"Performance","RWD",54205,"Silver","Gray",34990,37165,"Good","Virginia Luxury Motors",2.3,6,4.9,47,"False","True",318,1
+"110","NOT HOT",2013,"Performance","RWD",29869,"Black","Black",39826,41105,"Good","Premier Autos of Dallas",5,3,4.9,47,"True","True",83,2
+"111","NOT HOT",2012,"Sedan","RWD",64870,"Gray","Other",31988,29102,"Fair","Stevens Creek Toyota",4.6,292,4.6,11,"False","False",22,2
+"112","NOT HOT",2013,"Base","RWD",42677,"Red","Black",38991,42548,"Good","Excellent Choice Auto Sales",4.39333333333333,592.363265306122,4.9,47,"True","True",94,1
+"113","NOT HOT",2013,"Base","RWD",57656,"Black","Other",33600,34971,"Good","ST. GEORGE AUTO gallery",5,16,4.9,47,"True","False",113,1
+"114","NOT HOT",2012,"Signature Performance","RWD",29022,"Other","White",41687,45974,"Good","Doug's Lynnwood Mazda",4.8,405,4.6,11,"False","False",164,2
+"115","HOT CAR",2013,"Performance","RWD",24006,"Black","Gray",43995,47876,"Good","City Auto Sales, LLC",4.7,155,4.9,47,"False","True",10,1
+"116","HOT CAR",2013,"Performance","RWD",11954,"Blue","Other",44950,48993,"Good","Luxury Auto Plex LLC",4,11,4.9,47,"True","False",10,1
+"117","NOT HOT",2013,"Performance","RWD",46773,"White","Black",41999,43889,"Good","Carizona",4.4,20,4.9,47,"False","True",17,1
+"118","NOT HOT",2012,"Signature Performance","RWD",32201,"Other","Black",41499,45711,"Good","Motor Cars of Nashville",4.3,40,4.6,11,"True","False",172,1
+"119","NOT HOT",2013,"Performance","RWD",36384,"Brown","Beige",38000,41938,"Good","Carbiz Greater Washington DC",4.7,74,4.9,47,"True","True",348,1
+"120","NOT HOT",2013,"Performance","RWD",22973,"Blue","Beige",42995,46763,"Good","Munich Motors",5,8,4.9,47,"False","False",11,1
+"121","NOT HOT",2012,"Performance","RWD",98356,"Other","Beige",31900,35818,"Good","Dallas Auto Center",5,23,4.6,11,"False","False",170,4
+"122","NOT HOT",2013,"Performance","RWD",24754,"Black","Beige",39695,45836,"Great","Jax Exports Inc",4.2,62,4.9,47,"False","False",136,1
+"123","NOT HOT",2013,"Performance","RWD",15910,"Gray","Beige",42998,48755,"Good","HGreg.com Orlando",4.7,1202,4.9,47,"True","False",239,1
+"124","NOT HOT",2012,"Signature Performance","RWD",56028,"Other","Black",41888,44329,"Good","Platinum Autos",4.8,75,4.6,11,"False","False",231,1
+"125","HOT CAR",2012,"Base","RWD",53605,"White","Beige",35990,51836.0835579515,"not_rating","Nesh Auto Sales",3.2,5,4.6,11,"False","False",2,3
+"126","NOT HOT",2013,"Performance","RWD",69303,"Black","Beige",39999,40425,"Good","Carizona",4.4,20,4.9,47,"False","False",11,1
+"127","NOT HOT",2013,"Performance","RWD",62854,"Blue","Beige",39888,42306,"Good","Speed Auto Sales",4.5,80,4.9,47,"False","False",381,1
+"128","NOT HOT",2013,"Performance","RWD",28565,"Blue","Beige",40895,45872,"Good","Auto Holding",4.3,779,4.9,47,"False","True",310,2
+"129","NOT HOT",2013,"Performance","RWD",52468,"Black","Beige",35988,35168,"Fair","Honda Cars of Rockwall",4.6,127,4.9,47,"False","True",36,3
+"130","NOT HOT",2013,"Performance","RWD",5698,"Red","Other",49970,51836.0835579515,"not_rating","Subaru of Wichita",3.4,13,4.9,47,"False","False",178,1
+"131","NOT HOT",2012,"Signature Performance","RWD",60467,"Black","Black",35995,35034,"Fair","Ultimate Motorsports Inc.",4.8,347,4.6,11,"False","False",126,2
+"132","HOT CAR",2013,"Performance","RWD",64739,"Black","Black",39950,44023,"Good","Mark Kia",4.2,895,4.9,47,"True","False",8,2
+"133","NOT HOT",2013,"Performance","RWD",13806,"White","Other",46777,46758,"Good","Luxury Motorsports",3.9,63,4.9,47,"False","False",298,1
+"134","NOT HOT",2012,"Performance","RWD",22587,"Silver","Black",41800,47049,"Good","Autolinx",4.5,9,4.6,11,"False","False",90,1
+"135","NOT HOT",2013,"Performance","RWD",59420,"Black","Beige",40379,38997,"Fair","Mile High Car Helper",5,13,4.9,47,"False","False",71,1
+"136","NOT HOT",2013,"Performance","RWD",14329,"White","Black",49996,54743,"Good","Expo Motorcars",3.3,39,4.9,47,"False","False",193,1
+"137","NOT HOT",2012,"Signature Performance","RWD",33715,"Red","Beige",41991,48108,"Good","Excellent Choice Auto Sales",4.39333333333333,592.363265306122,4.6,11,"False","False",44,1
+"138","NOT HOT",2013,"Performance","RWD",43349,"Gray","Black",38795,44288,"Good","ALM Gwinnett",4.8,1025,4.9,47,"False","False",17,3
+"139","NOT HOT",2013,"Performance","RWD",63561,"Black","Black",34850,34928,"Good","eCarOne.com",4.9,1906,4.9,47,"False","False",126,2
+"140","HOT CAR",2013,"Base","RWD",106182,"White","Beige",36995,34758,"Fair","City Auto Sales, LLC",4.7,155,4.9,47,"False","False",2,2
+"141","NOT HOT",2013,"Performance","RWD",71086,"Silver","Gray",35500,34694,"Fair","Chicago Fine Motors",3.6,52,4.9,47,"False","True",38,1
+"142","HOT CAR",2013,"Base","RWD",99059,"Black","Gray",31999,31512,"Fair","CNC Motors, Inc.",5,5,4.9,47,"False","False",3,2
+"143","NOT HOT",2012,"Performance","RWD",50171,"Brown","Gray",36484,38480,"Good","Earth Motorcars",4.6,307,4.6,11,"False","False",59,2
+"144","NOT HOT",2013,"Performance","RWD",57601,"Black","Black",37495,36492,"Fair","Superior Auto Exchange",2.8,4,4.9,47,"True","True",197,2
+"145","NOT HOT",2013,"Performance","RWD",49614,"Black","Gray",42989,40212,"Fair","Jones Junction Hyundai",4.2,89,4.9,47,"False","False",21,3
+"146","NOT HOT",2012,"Performance","RWD",31020,"Other","Black",43995,49098,"Good","Universal Mitsubishi",4.9,426,4.6,11,"True","False",392,2
+"147","NOT HOT",2013,"Performance","RWD",57311,"Black","Black",37495,51836.0835579515,"not_rating","Superior Auto Exchange",2.8,4,4.9,47,"True","False",228,1
+"148","NOT HOT",2013,"Performance","RWD",13097,"Green","Gray",47995,54107,"Good","O.C. AUTOHAUS",4.3,67,4.9,47,"False","False",81,1
+"149","NOT HOT",2013,"Performance","RWD",48575,"Black","Beige",35880,38672,"Good","AutoDot",4.9,23,4.9,47,"True","True",25,1
+"150","NOT HOT",2012,"Performance 4dr Liftback","RWD",44035,"Black","Gray",37790,35283,"Fair","Vroom (Online Dealer - Nationwide Delivery)",3.8,788,4.6,11,"False","False",39,1
+"151","HOT CAR",2012,"Performance","RWD",117148,"Blue","Other",29300,20111,"Fair","ST. GEORGE AUTO gallery",5,16,4.6,11,"False","False",9,4
+"152","NOT HOT",2012,"Signature Performance","RWD",6590,"White","Black",41900,46149,"Good","CarTopia",4.4,27,4.6,11,"True","False",221,3
+"153","NOT HOT",2013,"Performance","RWD",63181,"Silver","Black",36995,35564,"Fair","Hayes Auto Sales",3.4,22,4.9,47,"False","False",226,2
+"154","NOT HOT",2015,"85D","RWD",15139,"Red","Beige",52995,50082,"Fair","Imperial Highline",4.6,29,4.8,41,"False","True",408,1
+"155","NOT HOT",2016,"70","RWD",49619,"Gray","Beige",41999,41389,"Fair","Las Vegas Auto Sport",3.4,10,4.8,27,"False","False",43,1
+"156","NOT HOT",2016,"85","RWD",29102,"White","Black",53999,55970,"Good","Northwest Motorsport - Puyallup",4.9,12245,4.8,27,"False","True",54,1
+"157","HOT CAR",2016,"75","RWD",27376,"White","White",54999,60777,"Good","Motorpoint Roswell",3.8,23,4.8,27,"False","False",4,1
+"158","NOT HOT",2016,"75","RWD",28884,"Gray","Black",53038,58846,"Good","Northwest Motorsport - Puyallup",4.9,12245,4.8,27,"False","False",170,1
+"159","NOT HOT",2017,"60","RWD",16751,"Silver","White",55882,62385,"Good","Temecula Nissan",3.1,92,4.7,25,"False","False",34,2
+"160","HOT CAR",2017,"","RWD",12364,"Black","Black",54881,58736,"Good","Century West BMW",4.3,148,4.7,25,"True","False",8,2
+"161","HOT CAR",2017,"75","RWD",21467,"Silver","Black",54889,58302,"Good","Auto Centrix",5,6,4.7,25,"True","False",17,1
+"162","HOT CAR",2017,"75","RWD",24147,"Silver","Other",50961,55355,"Good","Folsom Lake Toyota",4.7,170,4.7,25,"True","False",4,1
+"163","NOT HOT",2017,"75","RWD",18068,"Black","Black",62988,51836.0835579515,"not_rating","iDeal Motors",5,28,4.7,25,"False","False",2,1
+"164","HOT CAR",2015,"70D","RWD",29560,"Gray","Black",42798,45961,"Good","Green Eyed Motors",4,46,4.8,41,"True","False",11,1
+"165","NOT HOT",2015,"85","RWD",30166,"Other","Other",40999,46763,"Good","The Taverna Collection",3.7,60,4.8,41,"False","False",23,1
+"166","NOT HOT",2016,"85","RWD",25815,"White","Black",58800,51900,"Fair","Autolinx",4.5,9,4.8,27,"True","False",125,1
+"167","NOT HOT",2016,"75D","RWD",37640,"Red","Black",42995,42297,"Fair","Worldwide Motors",5,20,4.8,27,"False","False",77,1
+"168","NOT HOT",2016,"70","RWD",25603,"White","Black",48169,53874,"Good","Frontier Ford",3,17,4.8,27,"True","False",4,1
+"169","NOT HOT",2016,"75","RWD",32070,"Black","Black",51989,54891,"Good","Auto Centrix",5,6,4.8,27,"False","False",36,1
+"170","NOT HOT",2016,"75","RWD",40408,"Blue","Black",52988,55392,"Good","iDeal Motors",5,28,4.8,27,"False","False",46,1
+"171","NOT HOT",2017,"75","RWD",25870,"Black","Black",49482,55721,"Good","Concord Honda",4.5,530,4.7,25,"True","False",152,1
+"172","HOT CAR",2017,"75","RWD",18519,"Black","Other",49976,55355,"Good","Folsom Lake Toyota",4.7,170,4.7,25,"True","True",4,1
+"173","NOT HOT",2017,"75D","RWD",30960,"Black","Black",51888,55813,"Good","Calidad Motors",1.3,3,4.7,25,"True","False",35,1
+"174","NOT HOT",2017,"75","RWD",23361,"Silver","Black",54450,58302,"Good","eCarOne.com",4.9,1906,4.7,25,"True","False",42,1
+"175","NOT HOT",2017,"75","RWD",23476,"Silver","Black",52555,57341,"Good","Pearson Buick GMC",5,22,4.7,25,"True","False",38,1
+"176","HOT CAR",2017,"75","RWD",16887,"White","Black",53900,56995,"Good","Winn Volkswagen",4.7,22,4.7,25,"True","False",4,1
+"177","HOT CAR",2017,"75","RWD",19887,"Black","Black",54000,56000,"Good","INFINITI of Marin",4.39333333333333,592.363265306122,4.7,25,"True","False",4,1
+"178","HOT CAR",2017,"75","RWD",24037,"Silver","Other",50961,55355,"Good","Folsom Lake Toyota",4.7,170,4.7,25,"True","False",4,1
+"179","NOT HOT",2015,"70","RWD",32852,"Gray","Black",41988,46603,"Good","iDeal Motors",5,28,4.8,41,"False","False",32,1
+"180","NOT HOT",2016,"70D","RWD",32241,"Black","Beige",42699,49027,"Great","Motor Cars of Nashville",4.3,40,4.8,27,"False","True",9,1
+"181","NOT HOT",2016,"70D","RWD",24719,"Blue","Other",39855,45921,"Great","Sam Jidd Luxury LLC",3.9,7,4.8,27,"False","True",9,1
+"182","NOT HOT",2016,"70D","RWD",33469,"Gray","Other",38555,45591,"Great","Sam Jidd Luxury LLC",3.9,7,4.8,27,"False","True",23,1
+"183","NOT HOT",2017,"75D","RWD",11587,"Silver","Black",57999,60968,"Good","ALM Roswell",4.4,693,4.7,25,"False","True",150,1
+"184","NOT HOT",2017,"75D","RWD",27561,"White","Black",54994,57538,"Good","Porsche Chandler",4.9,166,4.7,25,"True","False",87,2
+"185","NOT HOT",2017,"75D","RWD",24319,"Silver","Other",53273,57286,"Good","Hyundai of Petaluma",5,14,4.7,25,"True","False",42,1
+"186","NOT HOT",2017,"75D","RWD",17732,"Blue","Black",65950,69901,"Good","Frontier Motors",4.5,26,4.7,25,"False","False",93,1
+"187","NOT HOT",2015,"70","RWD",40932,"Gray","Other",39999,41795,"Good","Siry Auto Group",4.8,472,4.8,41,"False","False",45,2
+"188","HOT CAR",2015,"70D","RWD",50023,"White","Beige",41995,44149,"Good","Rev It Motors",5,3,4.8,41,"False","False",10,1
+"189","HOT CAR",2015,"70D","RWD",41740,"Brown","Black",43999,42667,"Fair","European Auto House",4.3,31,4.8,41,"False","False",140,1
+"190","NOT HOT",2016,"70D","RWD",4749,"Gray","Other",47855,45988,"Fair","Sam Jidd Luxury LLC",3.9,7,4.8,27,"False","True",51,1
+"191","NOT HOT",2016,"70D","RWD",27608,"Gray","Beige",40995,51836.0835579515,"not_rating","Vision Hankook Motors, Inc.",1,25,4.8,27,"False","False",11,1
+"192","NOT HOT",2016,"75 4dr Liftback (midyear release)","RWD",25505,"Silver","Black",53890,68904,"Great","Vroom (Online Dealer - Nationwide Delivery)",3.8,788,4.8,27,"False","False",18,1
+"193","HOT CAR",2016,"75","RWD",27538,"Black","Black",48900,55036,"Good","Auto Merchants Inc.",3.7,98,4.8,27,"False","False",17,1
+"194","NOT HOT",2016,"60","RWD",63900,"Black","Other",63000,60224,"Fair","private_seller",4.3,4,4.8,27,"False","False",12,1
+"195","NOT HOT",2017,"75","RWD",13792,"Black","Other",51976,55355,"Good","Folsom Lake Toyota",4.7,170,4.7,25,"True","True",11,1
+"196","NOT HOT",2015,"85D","RWD",58773,"Black","Black",39995,46370,"Great","Imperial Highline",4.6,29,4.8,41,"False","False",3,2
+"197","NOT HOT",2015,"85D","RWD",36870,"Blue","Other",38555,47037,"Great","Sam Jidd Luxury LLC",3.9,7,4.8,41,"False","False",9,1
+"198","HOT CAR",2015,"70D","RWD",45925,"Brown","Beige",39999,42571,"Good","Las Vegas Auto Sport",3.4,10,4.8,41,"False","False",3,1
+"199","NOT HOT",2016,"70","RWD",36285,"Silver","Black",43988,48699,"Good","iDeal Motors",5,28,4.8,27,"False","False",40,1
+"200","NOT HOT",2016,"75","RWD",13347,"Gray","Black",49999,54929,"Good","Performance Motors",4.39333333333333,592.363265306122,4.8,27,"False","True",9,2
+"201","NOT HOT",2017,"75","RWD",23401,"Silver","Black",51800,55321,"Good","Capitol Buick GMC",4.4,44,4.7,25,"True","False",52,1
+"202","NOT HOT",2017,"75","RWD",25771,"Silver","Other",50472,55355,"Good","Folsom Lake Toyota",4.7,170,4.7,25,"True","False",11,1
+"203","HOT CAR",2017,"75","RWD",29298,"Black","Other",49463,55179,"Good","Folsom Lake Toyota",4.7,170,4.7,25,"True","False",4,1
+"204","HOT CAR",2017,"75","RWD",21436,"Silver","Black",58151,57039,"Fair","Frontier Ford",4.7,578,4.7,25,"True","False",5,1
+"205","NOT HOT",2017,"75","RWD",14591,"Black","Other",49496,51836.0835579515,"not_rating","Bill Luke Santan",5,2,4.7,25,"True","True",3,1
+"206","NOT HOT",2015,"70D","RWD",35528,"Black","Beige",37990,42082,"Good","Jumbo Luxury Cars",5,24,4.8,41,"False","False",37,1
+"207","NOT HOT",2016,"70D","RWD",18896,"Black","Black",46899,50909,"Good","Motor Cars of Nashville",4.3,40,4.8,27,"False","False",52,1
+"208","NOT HOT",2016,"75","RWD",45799,"Silver","Gray",52888,54485,"Good","iDeal Motors",5,28,4.8,27,"False","False",46,1
+"209","NOT HOT",2016,"75","RWD",36222,"Blue","Black",49999,53948,"Good","Las Vegas Auto Sport",3.4,10,4.8,27,"False","False",43,1
+"210","NOT HOT",2017,"75","RWD",22904,"Black","Black",53300,57039,"Good","Stevens Creek INFINITI",5,10,4.7,25,"True","False",39,1
+"211","NOT HOT",2017,"","RWD",31468,"Black","Other",51995,52859,"Good","Salinas Valley Ford Lincoln",4,438,4.7,25,"True","False",15,1
+"212","HOT CAR",2017,"75","RWD",19812,"Silver","Other",52976,55355,"Good","Folsom Lake Toyota",4.7,170,4.7,25,"True","False",4,1
+"213","HOT CAR",2017,"75","RWD",26516,"Silver","Other",49972,55274,"Good","Folsom Lake Toyota",4.7,170,4.7,25,"True","False",4,1
+"214","NOT HOT",2017,"75","RWD",21298,"Black","Black",49496,51836.0835579515,"not_rating","Bill Luke Santan",5,2,4.7,25,"True","False",7,1
+"215","NOT HOT",2015,"70","RWD",16815,"Black","Black",51995,57450,"Good","Carmel Motors",4.1,53,4.8,41,"False","False",221,1
+"216","NOT HOT",2015,"70","AWD",39418,"Silver","Black",41995,44561,"Good","San Diego eCars Inc.",4.39333333333333,592.363265306122,4.8,41,"False","False",16,1
+"217","NOT HOT",2015,"70","RWD",31548,"Silver","Beige",44970,46709,"Good","Westcoast Auto Sales",4.9,1779,4.8,41,"False","False",177,1
+"218","NOT HOT",2015,"70","RWD",43826,"Black","Black",38994,39334,"Good","Land Rover Hoffman Estates",4.8,289,4.8,41,"False","False",25,2
+"219","NOT HOT",2015,"70","RWD",65952,"Gray","Gray",39988,41814,"Good","iDeal Motors",5,28,4.8,41,"True","True",38,1
+"220","NOT HOT",2016,"85","RWD",35821,"Red","Black",50835,51162,"Good","Auto Collection of Murfreesboro",4.8,193,4.8,27,"False","True",189,1
+"221","NOT HOT",2016,"70D","RWD",32799,"Black","Other",39555,45609,"Great","Sam Jidd Luxury LLC",3.9,7,4.8,27,"False","False",23,1
+"222","NOT HOT",2016,"70","RWD",38458,"Blue","Black",44995,48486,"Good","San Diego eCars Inc.",4.39333333333333,592.363265306122,4.8,27,"False","True",72,1
+"223","NOT HOT",2016,"75D","RWD",31106,"Blue","Other",53677,57021,"Good","John L. Sullivan Chevrolet of Roseville",4.4,1880,4.8,27,"False","False",39,1
+"224","NOT HOT",2017,"75","RWD",30079,"Black","Other",48863,55179,"Good","Folsom Lake Toyota",4.7,170,4.7,25,"True","False",11,1
+"225","NOT HOT",2017,"75D","RWD",25808,"Black","Other",51782,56251,"Good","Hyundai Nissan of Serramonte",1,105,4.7,25,"True","False",23,1
+"226","NOT HOT",2017,"75","RWD",16519,"Black","Other",49496,51836.0835579515,"not_rating","Bill Luke Chrysler Jeep Dodge RAM",4.4,842,4.7,25,"True","False",2,1
+"227","NOT HOT",2015,"70","RWD",34290,"White","Black",39799,51836.0835579515,"not_rating","OffLeaseOnly.com The Nation's Used Car Destination",4.9,13060,4.8,41,"False","False",131,2
+"228","NOT HOT",2015,"70","RWD",38533,"White","Beige",40988,44723,"Good","iDeal Motors",5,28,4.8,41,"False","True",81,1
+"229","NOT HOT",2016,"","RWD",139168,"Black","Gray",37900,42421,"Good","Sunshine Auto Mall",5,211,4.8,27,"False","True",2,1
+"230","NOT HOT",2016,"70","RWD",61432,"Black","Other",41995,47748,"Good","Quantum Auto Sales",4.7,71,4.8,27,"False","False",63,1
+"231","NOT HOT",2017,"60","RWD",16889,"Blue","Other",58980,63804,"Good","Arrotta's Automax & RVs",4.4,82,4.7,25,"False","False",288,1
+"232","NOT HOT",2017,"75","RWD",16183,"Black","Black",53785,57619,"Good","AutoNation Chrysler Dodge Jeep Ram Bellevue",4.4,264,4.7,25,"True","False",45,1
+"233","NOT HOT",2017,"75","RWD",20385,"White","Other",54372,57144,"Good","Audi Palo Alto",4.5,1358,4.7,25,"True","False",8,1
+"234","NOT HOT",2015,"70D","RWD",32185,"Silver","Black",43490,47786,"Good","Sheehy Hyundai of Waldorf",4.2,112,4.8,41,"False","False",11,3
+"235","NOT HOT",2016,"85","RWD",14912,"Gray","Black",54999,59064,"Good","Northwest Motorsport - Puyallup",4.9,12245,4.8,27,"True","False",47,1
+"236","HOT CAR",2016,"75","RWD",42173,"Black","Black",39995,38465,"Fair","Highline Auto Sales",4.6,272,4.8,27,"False","True",8,1
+"237","HOT CAR",2016,"75","RWD",35305,"White","Beige",53988,55526,"Good","iDeal Motors",5,28,4.8,27,"False","False",15,1
+"238","NOT HOT",2016,"75D","RWD",25560,"Gray","Black",50000,55321,"Good","Legend Auto Sales Inc",4.9,660,4.8,27,"False","True",75,1
+"239","NOT HOT",2016,"75","RWD",24440,"Gray","Black",54988,51836.0835579515,"not_rating","iDeal Motors",5,28,4.8,27,"False","True",2,1
+"240","NOT HOT",2017,"75","RWD",15751,"Black","Black",51981,56000,"Good","Mercedes-Benz of Walnut Creek",4.7,241,4.7,25,"True","False",9,1
+"241","NOT HOT",2017,"75","RWD",21360,"Black","Black",49863,55321,"Good","Bill Brandt Ford Inc",4.9,494,4.7,25,"True","False",17,1
+"242","NOT HOT",2017,"75","RWD",30315,"Silver","Black",49992,55023,"Good","Chevrolet of Stevens Creek",5,1,4.7,25,"True","False",33,1
+"243","NOT HOT",2017,"75","RWD",23158,"Black","Black",49499,55410,"Good","Daly City Mitsubishi",4.2,5,4.7,25,"True","False",10,1
+"244","NOT HOT",2015,"85","RWD",47048,"Gray","Gray",44988,51516,"Good","iDeal Motors",5,28,4.8,41,"False","False",16,1
+"245","NOT HOT",2016,"70D","RWD",5084,"Red","Black",46490,54539,"Great","ALM Gwinnett",4.8,1025,4.8,27,"False","False",17,1
+"246","HOT CAR",2016,"75","RWD",20528,"Silver","Black",47999,58381,"Great","Atlanta Autos",4.3,914,4.8,27,"False","False",3,1
+"247","NOT HOT",2017,"75","RWD",15843,"Black","Black",50995,55135,"Good","San Diego Auto Finder",5,6,4.7,25,"True","True",44,1
+"248","HOT CAR",2017,"75","RWD",20429,"White","Other",54976,55355,"Good","Folsom Lake Toyota",4.7,170,4.7,25,"True","False",4,1
+"249","NOT HOT",2017,"75","RWD",20276,"Gray","Black",51981,56000,"Good","Mercedes-Benz of Walnut Creek",4.7,241,4.7,25,"True","False",9,1
+"250","HOT CAR",2017,"75","RWD",16950,"White","Black",58800,60903,"Good","Dallas Truck World",4.6,35,4.7,25,"True","False",6,1
+"251","HOT CAR",2017,"75","RWD",23674,"Black","Black",57506,57039,"Fair","Frontier Ford",4.7,578,4.7,25,"True","False",5,1
+"252","NOT HOT",2015,"70","RWD",33850,"Black","Other",40299,45184,"Good","The Taverna Collection",3.7,60,4.8,41,"False","False",76,1
+"253","NOT HOT",2016,"75D","RWD",46579,"Black","Black",42499,41770,"Fair","Las Vegas Auto Sport",3.4,10,4.8,27,"False","False",15,1
+"254","NOT HOT",2016,"70","RWD",25564,"Silver","Gray",39990,50517,"Great","Auto Show Sales & Service",4.8,338,4.8,27,"False","True",3,1
+"255","NOT HOT",2016,"75D","RWD",14657,"Black","Other",51991,55321,"Good","Excellent Choice Auto Sales",4.39333333333333,592.363265306122,4.8,27,"False","True",32,1
+"256","NOT HOT",2017,"75","RWD",27259,"Black","Black",53950,58302,"Good","eCarOne.com",4.9,1906,4.7,25,"True","False",42,1
+"257","NOT HOT",2017,"75D","RWD",28786,"Black","Black",51973,57538,"Good","Bill Luke Chrysler Jeep Dodge RAM",4.4,842,4.7,25,"True","False",17,1
+"258","NOT HOT",2017,"75","RWD",22217,"Black","Black",50499,55410,"Good","Daly City Mitsubishi",4.2,5,4.7,25,"True","False",17,1
+"259","NOT HOT",2017,"75","RWD",24127,"Silver","Black",52889,57039,"Good","Stevens Creek INFINITI",5,10,4.7,25,"True","False",39,1
+"260","NOT HOT",2017,"75","RWD",17283,"Black","Black",51491,56000,"Good","Lexus of Marin",4.8,351,4.7,25,"True","False",18,1
+"261","NOT HOT",2017,"75","RWD",16944,"Other","Black",49496,51836.0835579515,"not_rating","Bill Luke Tempe",4.6,453,4.7,25,"True","False",2,1
+"262","NOT HOT",2015,"70D","AWD",26171,"Blue","Gray",45499,49232,"Good","DriveMaxGroup.com",4.1,63,4.8,41,"False","False",166,1
+"263","NOT HOT",2015,"70D","AWD",27281,"Blue","Black",42775,47558,"Good","Carplus",4.39333333333333,592.363265306122,4.8,41,"False","False",180,1
+"264","NOT HOT",2015,"85D","AWD",49506,"Black","Black",46995,45026,"Fair","Highline Auto Sales",4.6,272,4.8,41,"False","False",42,1
+"265","HOT CAR",2016,"90D","AWD",25404,"Blue","Beige",45995,55321,"Great","BM Motorcars",4.5,818,4.8,27,"False","True",8,2
+"266","NOT HOT",2016,"90D","AWD",37070,"Silver","Black",51490,54844,"Good","Autos of Palm Beach",5,35,4.8,27,"False","False",4,1
+"267","NOT HOT",2016,"70D","AWD",18810,"Blue","Black",44995,54743,"Great","BM Motorcars",4.5,818,4.8,27,"False","False",30,1
+"268","NOT HOT",2016,"90D","AWD",24082,"Blue","Other",51555,55241,"Good","Sam Jidd Luxury LLC",3.9,7,4.8,27,"False","True",9,1
+"269","HOT CAR",2016,"70D","AWD",15838,"Blue","Beige",43990,46280,"Good","NextGear Motors",4.4,7,4.8,27,"False","False",8,1
+"270","HOT CAR",2016,"90D","AWD",40601,"Silver","Gray",46995,51836.0835579515,"not_rating","RDU Auto Sales",5,107,4.8,27,"False","True",2,1
+"271","NOT HOT",2016,"90D","AWD",24666,"Blue","Gray",57999,63977,"Good","Auto House",4.8,11,4.8,27,"False","False",108,1
+"272","NOT HOT",2016,"70D","AWD",37567,"Blue","Black",51977,45856,"Fair","Ultimo Motors East",4.1,104,4.8,27,"False","False",219,1
+"273","NOT HOT",2016,"75D","AWD",21450,"Black","Beige",58795,63382,"Good","CARSMITH MOTORS",5,5,4.8,27,"False","False",221,1
+"274","NOT HOT",2016,"DRIVE TRAIN-ALL WHEEL SIRIUS","AWD",24192,"Brown","Beige",69000,57814,"Fair","Motorpoint Roswell",3.8,23,4.8,27,"False","False",52,1
+"275","NOT HOT",2016,"75D","AWD",31623,"Gray","Other",49991,55127,"Good","Manheim Imports",4.9,155,4.8,27,"False","False",14,2
+"276","NOT HOT",2017,"90D","AWD",18321,"Black","Black",71995,75838,"Good","O.C. AUTOHAUS",4.3,67,4.7,25,"True","False",37,2
+"277","HOT CAR",2017,"","AWD",23943,"Gray","Other",74850,74953,"Good","MINI of Chicago",4.6,48,4.7,25,"False","False",79,1
+"278","NOT HOT",2017,"75D","AWD",29044,"Black","Black",64800,68186,"Good","Ultimo Motors North Shore",5,21,4.7,25,"False","False",23,1
+"279","NOT HOT",2017,"100D","AWD",18746,"Blue","Black",83850,87145,"Good","Fishers Imports",4.8,28,4.7,25,"False","False",206,1
+"280","NOT HOT",2018,"","AWD",14643,"Black","Other",66004,58062,"Fair","Lexus of Queens",4.8,462,4.8,5,"True","False",2,1
+"281","NOT HOT",2018,"75D","AWD",14019,"Black","Other",58855,51836.0835579515,"not_rating","Sam Jidd Luxury LLC",3.9,7,4.8,5,"True","False",30,1
+"282","NOT HOT",2018,"100D","AWD",19979,"Blue","Black",79950,68622,"Fair","Audi Richfield",4.4,7,4.8,5,"False","False",33,1
+"283","NOT HOT",2015,"85D","AWD",71821,"Black","Black",43800,41479,"Fair","Roadsport",4.39333333333333,592.363265306122,4.8,41,"False","True",353,1
+"284","NOT HOT",2015,"70D","AWD",24115,"Black","Black",45499,49232,"Good","Carizona",4.4,20,4.8,41,"False","False",44,1
+"285","NOT HOT",2015,"85D","AWD",30680,"Black","Black",46991,49735,"Good","Legend Auto Sales Inc",4.9,660,4.8,41,"False","True",95,1
+"286","NOT HOT",2016,"","AWD",44061,"White","Beige",51485,53597,"Good","Modern Auto Sales",4.9,332,4.8,27,"False","False",59,1
+"287","NOT HOT",2016,"90D","AWD",40385,"Silver","Gray",50621,54313,"Good","Roesch Ford",4.6,285,4.8,27,"False","False",173,1
+"288","NOT HOT",2016,"90D","AWD",55370,"Gray","Gray",52991,50049,"Fair","Warwick Autopark",5,128,4.8,27,"False","False",192,1
+"289","NOT HOT",2016,"75D","AWD",22968,"Blue","Black",52996,58539,"Good","Certified Autoplex, Inc.",4.8,1330,4.8,27,"False","False",29,2
+"290","NOT HOT",2016,"75D","AWD",20303,"Blue","Black",55889,58539,"Good","Auto Centrix",5,6,4.8,27,"False","False",53,1
+"291","NOT HOT",2016,"75D","AWD",22248,"Silver","Beige",51795,55306,"Good","ALM Gwinnett",4.8,1025,4.8,27,"False","False",135,2
+"292","NOT HOT",2016,"75D","AWD",3639,"Silver","Black",64800,60338,"Fair","Chicago Motor Cars",4.7,542,4.8,27,"False","False",58,3
+"293","NOT HOT",2017,"75D","AWD",21874,"Silver","Black",69995,72973,"Good","Rockland Motors",4.7,138,4.7,25,"False","False",331,1
+"294","NOT HOT",2017,"100D","AWD",11833,"Blue","Black",74581,74953,"Good","Westcoast Auto Sales",4.9,1779,4.7,25,"False","False",210,1
+"295","HOT CAR",2018,"","AWD",15577,"Black","Other",62777,57483,"Fair","Cadillac Of Greenwich",3.7,39,4.8,5,"True","False",3,1
+"296","HOT CAR",2018,"75D","AWD",16606,"Black","Black",59552,64694,"Good","Thrifty Car Sales - Reisterstown",4.8,79,4.8,5,"True","False",4,1
+"297","NOT HOT",2018,"75D","AWD",14010,"Black","Black",63203,67313,"Good","McGrath Lexus of Westmont",2.4,57,4.8,5,"True","False",10,1
+"298","NOT HOT",2018,"75D","AWD",13132,"Black","Black",64500,68727,"Good","Young Chevrolet",3.5,99,4.8,5,"True","False",17,1
+"299","HOT CAR",2018,"75D","AWD",3040,"Black","Black",63991,51836.0835579515,"not_rating","Mark Kia",4.2,895,4.8,5,"True","False",2,1
+"300","NOT HOT",2015,"85D","AWD",30044,"Gray","Black",46589,51649,"Good","Auto Centrix",5,6,4.8,41,"False","False",9,1
+"301","NOT HOT",2016,"90D","AWD",33268,"White","Beige",51979,63101,"Great","Major Motor Cars",5,10,4.8,27,"False","False",120,2
+"302","NOT HOT",2016,"70D","AWD",60219,"White","Black",44980,43306,"Fair","Radical Auto",4.7,11,4.8,27,"False","False",220,2
+"303","NOT HOT",2016,"75D","AWD",33704,"White","Black",54988,51836.0835579515,"not_rating","iDeal Motors",5,28,4.8,27,"False","False",2,1
+"304","NOT HOT",2016,"75D","AWD",50901,"White","Beige",48390,53176,"Good","Current Automotive",4.39333333333333,592.363265306122,4.8,27,"False","False",12,1
+"305","NOT HOT",2017,"","AWD",9735,"Black","Other",74880,60562,"Fair","Bobby Rahal Motorcar Company",4.2,90,4.7,25,"False","False",47,1
+"306","HOT CAR",2017,"75D","AWD",8196,"Blue","Black",63495,66409,"Good","Texas Cars Direct",4.9,176,4.7,25,"False","False",4,1
+"307","NOT HOT",2017,"100D","AWD",18238,"Blue","White",76597,78996,"Good","Tim Dahle INFINITI",2.7,24,4.7,25,"False","False",33,2
+"308","NOT HOT",2015,"90D","AWD",30460,"Silver","Beige",49915,53540,"Good","Ramsey Auto Center",4.7,760,4.8,41,"False","False",46,3
+"309","NOT HOT",2015,"90D","AWD",26433,"Other","Other",43999,49003,"Good","1st Choice Autos",5,45,4.8,41,"False","False",16,1
+"310","NOT HOT",2015,"90D","AWD",39432,"Silver","Other",42988,48628,"Good","Fairfax Motors, Inc.",3.5,29,4.8,41,"False","False",53,1
+"311","NOT HOT",2015,"70D","AWD",14300,"Gray","Black",46851,53339,"Good","Priced Rite Auto",4.39333333333333,592.363265306122,4.8,41,"True","False",53,1
+"312","HOT CAR",2015,"90D","AWD",46587,"Black","Black",49999,61479,"Great","Performance Motors",4.39333333333333,592.363265306122,4.8,41,"False","False",5,1
+"313","NOT HOT",2015,"90D","AWD",25439,"Blue","Other",53999,57325,"Good","World Auto Inc.",4.39333333333333,592.363265306122,4.8,41,"False","False",15,1
+"314","NOT HOT",2016,"70D","AWD",9752,"Blue","Beige",49599,54400,"Good","OffLeaseOnly.com The Nation's Used Car Destination",4.9,13782,4.8,27,"False","True",572,2
+"315","HOT CAR",2016,"","AWD",38085,"Blue","Beige",50895,46149,"Fair","Auto Boutique",4.4,47,4.8,27,"False","False",7,1
+"316","NOT HOT",2016,"P90D","AWD",24565,"Silver","Other",49988,70264,"Great","Fairfax Motors, Inc.",3.5,29,4.8,27,"False","True",67,1
+"317","HOT CAR",2016,"70D","AWD",24498,"Gray","Gray",43995,49277,"Good","Highline Motor Cars",4.7,91,4.8,27,"False","False",88,1
+"318","NOT HOT",2016,"90D","AWD",5624,"Red","Black",60989,65026,"Good","Auto Centrix",5,6,4.8,27,"False","False",9,1
+"319","NOT HOT",2016,"90D","AWD",23230,"Black","Black",51700,55275,"Good","Marietta Luxury Motors",4.7,1621,4.8,27,"False","True",107,1
+"320","NOT HOT",2016,"70D","AWD",30597,"White","Other",40855,45660,"Good","Sam Jidd Luxury LLC",3.9,7,4.8,27,"False","True",23,1
+"321","NOT HOT",2016,"90D","AWD",51591,"Black","Beige",57988,57524,"Fair","iDeal Motors",5,28,4.8,27,"False","False",32,1
+"322","HOT CAR",2017,"90D","AWD",32548,"White","Black",64887,68040,"Good","Current Automotive",4.39333333333333,592.363265306122,4.7,25,"False","False",5,1
+"323","NOT HOT",2017,"100D","AWD",14944,"Silver","White",79888,68622,"Fair","Mark Motors",4.39333333333333,592.363265306122,4.7,25,"False","False",22,1
+"324","HOT CAR",2018,"75D","AWD",13636,"Black","Black",61998,65206,"Good","Texas Car One",4.9,62,4.8,5,"True","False",4,1
+"325","NOT HOT",2018,"75D","AWD",13025,"Black","Black",61407,59218,"Fair","Kayser Chrysler Center",4.5,96,4.8,5,"True","False",11,1
+"326","NOT HOT",2018,"","AWD",15984,"Other","Other",49496,51836.0835579515,"not_rating","Volkswagen Audi Boise",4.5,121,4.8,5,"True","False",2,1
+"327","NOT HOT",2018,"75D","AWD",13196,"Black","Black",65375,69743,"Good","Community Chrysler Dodge Jeep RAM",4.9,101,4.8,5,"True","False",15,1
+"328","NOT HOT",2018,"100D","AWD",2064,"Black","Black",82982,88939,"Good","Centennial Leasing & Sales",5,553,4.8,5,"False","False",43,1
+"329","NOT HOT",2018,"75D","AWD",2792,"Black","Black",63991,51836.0835579515,"not_rating","Mark Mitsubishi Scottsdale",3.4,43,4.8,5,"True","False",2,1
+"330","NOT HOT",2015,"90D","AWD",26780,"Gray","Black",54999,58909,"Good","Northwest Motorsport - Puyallup",4.9,12245,4.8,41,"False","False",38,1
+"331","NOT HOT",2015,"70D","AWD",50913,"Black","Beige",37877,41923,"Good","Wholesale Inc.",4.8,340,4.8,41,"False","False",16,1
+"332","HOT CAR",2015,"85D","AWD",21537,"Blue","Beige",46995,49148,"Good","City Auto Sales, LLC",4.7,155,4.8,41,"False","True",2,1
+"333","NOT HOT",2015,"70D","AWD",29763,"Gray","Black",43495,48469,"Good","BM Motorcars",4.5,818,4.8,41,"False","False",22,1
+"334","NOT HOT",2015,"70D","AWD",19773,"White","Other",44997,48067,"Good","World Class Motors",3.9,64,4.8,41,"False","True",72,1
+"335","NOT HOT",2016,"70D","AWD",26681,"Gold","Black",49999,54706,"Good","Perfect 10 Auto",5,9,4.8,27,"False","True",324,1
+"336","NOT HOT",2016,"85D","AWD",38191,"Gray","Black",50989,52611,"Good","Auto Centrix",5,6,4.8,27,"True","False",60,1
+"337","NOT HOT",2016,"P90D","AWD",12292,"Black","Black",49998,65151,"Great","HGreg.com Orlando",4.7,1202,4.8,27,"False","True",133,2
+"338","NOT HOT",2016,"","AWD",37825,"Black","Black",56750,53205,"Fair","Motor Werks - Barrington Auto Mall",4.9,2868,4.8,27,"False","False",23,1
+"339","NOT HOT",2016,"70D","AWD",23877,"Gray","Black",49995,54710,"Good","Auto Expo Ent Inc",4.8,1014,4.8,27,"False","True",211,1
+"340","NOT HOT",2016,"90D","AWD",57383,"Black","Black",48900,48362,"Fair","United Traders, Inc",4.39333333333333,592.363265306122,4.8,27,"False","True",11,1
+"341","NOT HOT",2016,"90D","AWD",40066,"Black","Black",59885,62609,"Good","Private Collection Motors",4,52,4.8,27,"False","False",102,1
+"342","NOT HOT",2017,"75D","AWD",14000,"Black","Other",69900,70857,"Good","Western Motors LA",5,2,4.7,25,"True","False",287,2
+"343","NOT HOT",2017,"100D","AWD",11162,"Black","Black",84988,87862,"Good","Ferman Chevrolet of Tampa",4.7,1890,4.7,25,"False","True",16,1
+"344","NOT HOT",2017,"90D","AWD",21557,"Red","Black",66801,69599,"Good","Select Luxury Cars",3.5,37,4.7,25,"False","False",22,1
+"345","NOT HOT",2017,"90D","AWD",24410,"Black","Black",68800,73417,"Good","Autolinx",4.5,9,4.7,25,"True","False",74,1
+"346","NOT HOT",2017,"90D","AWD",12679,"Gray","Other",76988,69322,"Fair","Rolls-Royce Motor Cars Raleigh",4.8,69,4.7,25,"False","False",138,1
+"347","NOT HOT",2017,"100D","AWD",19700,"Silver","Black",74993,69638,"Fair","Bozard Ford",4.8,6984,4.7,25,"False","False",29,1
+"348","NOT HOT",2018,"NAV HTD STS PARK ASST 19IN WLS","AWD",18588,"Black","Black",60990,56651,"Fair","Autos of Dallas",4.1,1000,4.8,5,"True","False",16,1
+"349","HOT CAR",2018,"75D","AWD",19179,"Black","Other",63580,66437,"Good","Covert Buick GMC Austin",3.9,838,4.8,5,"True","False",4,1
+"350","NOT HOT",2018,"","AWD",8627,"Black","Other",68995,51836.0835579515,"not_rating","Ourisman Chrysler Dodge Jeep Ram of Bowie",2.5,107,4.8,5,"True","False",3,1
+"351","NOT HOT",2018,"75D","AWD",4854,"Gray","Black",69979,72036,"Good","Aristocrat Motors",5,17,4.8,5,"False","False",37,1
+"352","NOT HOT",2015,"90D","AWD",42763,"Red","Black",46832,51354,"Good","Rocky Mountain Motors",4.4,44,4.8,41,"False","False",64,1
+"353","NOT HOT",2015,"70D-1 OWNER AUTOPILOT ENABLED ROOF SUBZERO PACKAGE","AWD",17038,"White","Black",49888,57514,"Great","Chicago Auto Place",3.9,233,4.8,41,"False","False",36,1
+"354","NOT HOT",2015,"90D","AWD",36648,"Gray","Gray",52999,51836.0835579515,"not_rating","Carizona",4.4,20,4.8,41,"False","False",2,1
+"355","NOT HOT",2016,"90D","AWD",39709,"Silver","Black",59988,62609,"Good","iDeal Motors",5,28,4.8,27,"False","False",52,1
+"356","HOT CAR",2016,"AWD 90D 4dr Liftback","AWD",10552,"Silver","Beige",63410,61576,"Fair","Vroom (Online Dealer - Nationwide Delivery)",4,5,4.8,27,"False","False",8,1
+"357","HOT CAR",2016,"75D","AWD",15872,"Silver","Black",53968,57915,"Good","Current Automotive",4.39333333333333,592.363265306122,4.8,27,"False","False",5,1
+"358","HOT CAR",2018,"75D","AWD",18902,"Black","Other",63580,66437,"Good","Covert Buick GMC Austin",3.9,838,4.8,5,"True","False",4,1
+"359","NOT HOT",2015,"85D","AWD",31849,"Blue","Beige",47886,53740,"Good","Specialized Sales & Leasing",3.8,98,4.8,41,"False","False",80,1
+"360","NOT HOT",2015,"70D","AWD",27834,"White","Other",39555,43966,"Good","Sam Jidd Luxury LLC",3.9,7,4.8,41,"False","True",23,1
+"361","NOT HOT",2015,"90D","AWD",45744,"White","Beige",45999,51271,"Good","Drive A Dream",4.7,121,4.8,41,"False","False",101,1
+"362","NOT HOT",2015,"70D","AWD",34601,"Gray","Black",42599,43997,"Good","Motor Cars of Nashville",4.3,40,4.8,41,"False","False",35,1
+"363","NOT HOT",2015,"85D","AWD",26187,"Gray","Black",42990,51836.0835579515,"not_rating","Auto Show Sales & Service",4.8,338,4.8,41,"False","False",2,1
+"364","NOT HOT",2015,"70D","AWD",33527,"White","Black",42995,48408,"Good","Auto Expo Ent Inc",4.8,1014,4.8,41,"False","True",211,3
+"365","HOT CAR",2015,"90D","AWD",19795,"Red","Gray",56950,60283,"Good","Luxury Auto Plex LLC",4,11,4.8,41,"True","False",5,1
+"366","NOT HOT",2015,"85D","AWD",20541,"Black","Other",49994,55130,"Good","Power Ford",4.7,1612,4.8,41,"False","False",107,3
+"367","NOT HOT",2016,"85D","AWD",39625,"Beige","Beige",45700,52285,"Good","Carvana",4.4,320,4.8,27,"False","False",114,1
+"368","NOT HOT",2016,"90D","AWD",14145,"White","Beige",62950,66159,"Good","Mark Kia",4.2,895,4.8,27,"False","False",43,1
+"369","NOT HOT",2016,"70D","AWD",20692,"Black","Black",46999,51836.0835579515,"not_rating","OffLeaseOnly.com The Nation's Used Car Destination",4.9,15230,4.8,27,"False","False",92,1
+"370","NOT HOT",2016,"85D","AWD",28988,"Silver","Beige",48500,53673,"Good","Price Pro",4.8,527,4.8,27,"False","False",33,1
+"371","NOT HOT",2016,"90D","AWD",16177,"Brown","Beige",59999,63480,"Good","Northwest Motorsport - Puyallup",4.9,12245,4.8,27,"True","False",116,1
+"372","NOT HOT",2017,"100D","AWD",6131,"Blue","Black",79999,91535,"Good","Northwest Motorsport - Puyallup",4.9,12245,4.7,25,"False","False",31,1
+"373","NOT HOT",2017,"75D","AWD",30207,"Silver","Black",58995,63312,"Good","Highline Motor Cars",4.7,91,4.7,25,"False","False",44,1
+"374","NOT HOT",2018,"75D","AWD",13307,"Black","Black",59500,61834,"Good","LW Automotive",4.6,136,4.8,5,"True","False",194,2
+"375","NOT HOT",2018,"100D","AWD",17179,"Silver","Other",79491,88939,"Good","Groove Toyota",4.9,655,4.8,5,"False","False",36,1
+"376","NOT HOT",2018,"75D","AWD",9250,"White","White",69999,65050,"Fair","CNC Motors, Inc.",5,5,4.8,5,"False","False",54,1
+"377","HOT CAR",2018,"75D","AWD",14808,"Black","Black",64450,69685,"Good","Fritz in Fishers",4.1,205,4.8,5,"True","False",8,1
+"378","HOT CAR",2018,"75D","AWD",14701,"Black","Other",64000,69865,"Good","Sarasota Ford",4.9,714,4.8,5,"True","False",4,1
+"379","NOT HOT",2018,"75D","AWD",17800,"Black","Other",59494,63789,"Good","Commerce Mitsubishi",4.3,6,4.8,5,"True","False",40,1
+"380","NOT HOT",2015,"85D","AWD",30946,"Gray","Other",44555,47091,"Good","Sam Jidd Luxury LLC",3.9,7,4.8,41,"True","False",25,2
+"381","NOT HOT",2015,"90D","AWD",22791,"Brown","Beige",42995,45138,"Good","Auto Boutique",4.4,47,4.8,41,"False","False",25,1
+"382","NOT HOT",2015,"85D","AWD",40555,"Black","Black",44995,46685,"Good","Godspeed Motors",4.7,57,4.8,41,"False","False",71,1
+"383","NOT HOT",2015,"85D","AWD",19170,"Gray","White",52950,55744,"Good","Ash Auto Group",4.6,69,4.8,41,"False","True",171,2
+"384","NOT HOT",2016,"70D","AWD",24771,"Blue","Black",49496,51836.0835579515,"not_rating","United Traders, Inc",4.39333333333333,592.363265306122,4.8,27,"False","False",1,1
+"385","NOT HOT",2016,"P90D","AWD",43026,"Silver","Gray",47999,51836.0835579515,"not_rating","Drive A Dream",4.7,121,4.8,27,"False","False",80,1
+"386","NOT HOT",2016,"70D","AWD",45198,"Blue","Gray",44981,48036,"Good","MemberCar",4.8,164,4.8,27,"False","False",9,1
+"387","NOT HOT",2016,"75D","AWD",24200,"Black","Other",59995,64694,"Good","RT28 Motors",4.9,17,4.8,27,"False","False",4,1
+"388","NOT HOT",2016,"90D","AWD",18984,"White","White",54999,63480,"Great","World Auto Inc.",4.39333333333333,592.363265306122,4.8,27,"False","False",31,1
+"389","NOT HOT",2017,"90D","AWD",17603,"Black","Other",67988,68875,"Good","Chevrolet of Everett",5,73,4.7,25,"True","False",81,2
+"390","NOT HOT",2017,"90D","AWD",19000,"Silver","White",69900,73549,"Good","Diablo Motors Auto Sales",5,5,4.7,25,"True","False",20,1
+"391","NOT HOT",2017,"75D","AWD",15413,"White","Other",68989,70545,"Good","Mercedes-Benz of Salem",5,171,4.7,25,"False","False",80,1
+"392","NOT HOT",2017,"75D","AWD",21266,"Gray","Other",63000,69271,"Good","Courtesy Acura",4.8,3195,4.7,25,"False","False",17,1
+"393","HOT CAR",2017,"","AWD",28047,"White","Other",60995,57425,"Fair","Indy Auto Man",4.6,1472,4.7,25,"False","False",5,1
+"394","NOT HOT",2018,"75D","AWD",17757,"Black","Black",60990,65444,"Good","Kia of Huntington",4.9,118,4.8,5,"True","False",9,1
+"395","HOT CAR",2018,"75D","AWD",18348,"Black","Black",56983,66860,"Great","Greenwich INFINITI",4.8,399,4.8,5,"True","False",4,1
+"396","NOT HOT",2018,"75D","AWD",18504,"Black","Black",62399,68213,"Good","Avondale Mitsubishi",4,71,4.8,5,"True","False",16,1
+"397","NOT HOT",2018,"75D","AWD",7139,"Black","Other",61555,64860,"Good","Sam Jidd Luxury LLC",3.9,7,4.8,5,"True","False",9,1
+"398","NOT HOT",2015,"85D","AWD",38064,"White","Black",49855,48162,"Fair","Jidd Motors",4.7,1418,4.8,41,"False","False",206,1
+"399","NOT HOT",2015,"90D","AWD",56851,"Gray","Black",44995,47299,"Good","Imperial Highline",4.6,29,4.8,41,"False","False",115,2
+"400","NOT HOT",2015,"SDAUTOFINDERS.COM CLEAN CARFAX MUST SEE","AWD",12400,"Silver","Black",51995,43662,"Fair","San Diego Auto Finder",5,6,4.8,41,"False","False",44,1
+"401","NOT HOT",2016,"70D","AWD",35597,"Brown","Black",47995,49927,"Good","Imperial Highline",4.6,29,4.8,27,"False","False",367,1
+"402","NOT HOT",2016,"P90D","AWD",33392,"Silver","Black",53799,64865,"Great","Motor Cars of Nashville",4.3,40,4.8,27,"False","False",15,1
+"403","NOT HOT",2016,"70D","AWD",24289,"Silver","Black",42990,54455,"Great","Auto Show Sales & Service",4.8,338,4.8,27,"False","False",8,1
+"404","NOT HOT",2016,"70D","AWD",52993,"Blue","Gray",44989,51046,"Good","Auto Centrix",5,6,4.8,27,"False","True",9,1
+"405","NOT HOT",2016,"90D","AWD",37347,"White","Black",47990,51836.0835579515,"not_rating","Georgia Auto World",3.2,51,4.8,27,"False","False",31,1
+"406","HOT CAR",2016,"90D","AWD",21860,"Gray","Gray",56999,60364,"Good","Las Vegas Auto Sport",3.4,10,4.8,27,"False","False",10,1
+"407","NOT HOT",2017,"90D","AWD",12000,"Gray","Black",69900,73549,"Good","Diablo Motors Auto Sales",5,5,4.7,25,"True","False",80,1
+"408","NOT HOT",2016,"90D","AWD",24001,"Black","Black",58840,61940,"Good","Leachman Buick GMC Cadillac",3,96,4.8,27,"False","False",152,1
+"409","NOT HOT",2016,"90D","AWD",38284,"Blue","Beige",51995,55663,"Good","Nissan of New Rochelle",4.7,361,4.8,27,"False","False",29,1
+"410","NOT HOT",2016,"70D","AWD",44676,"Black","Black",41995,43336,"Good","Highline Auto Sales",4.6,272,4.8,27,"False","False",28,1
+"411","NOT HOT",2016,"70D","AWD",8318,"Silver","Black",50989,55143,"Good","Auto Centrix",5,6,4.8,27,"True","False",28,1
+"412","HOT CAR",2016,"P90D","AWD",34230,"Red","Black",51995,76868,"Great","Freeman Motor Company of Portland",3.8,18,4.8,27,"False","True",97,1
+"413","NOT HOT",2016,"60D","AWD",31081,"White","Gray",49496,51836.0835579515,"not_rating","Tom Hodges Mitsubishi",5,84,4.8,27,"False","False",8,2
+"414","HOT CAR",2017,"AWD 90D 4dr Liftback","AWD",27260,"Red","Black",68230,81481,"Great","Vroom (Online Dealer - Nationwide Delivery)",3.8,788,4.7,25,"False","False",3,1
+"415","NOT HOT",2017,"75D","AWD",37787,"Silver","Black",62000,64367,"Good","K&S Auto Sales",5,39,4.7,25,"False","False",58,1
+"416","NOT HOT",2017,"100D","AWD",32429,"Gray","Black",69998,77948,"Good","CarMax Irvine",5,4,4.7,25,"False","False",17,1
+"417","NOT HOT",2017,"100D","AWD",11184,"Gray","Other",74500,76464,"Good","BidCars Boston",4.8,251,4.7,25,"False","False",24,1
+"418","NOT HOT",2017,"75D","AWD",35334,"Other","Other",58599,61500,"Good","Cornerstone Ford Chrysler",4.8,283,4.7,25,"False","False",3,1
+"419","NOT HOT",2018,"75D","AWD",16759,"Black","Black",49496,51836.0835579515,"not_rating","Auto Gallery Mitsubishi - Murrieta",4.39333333333333,592.363265306122,4.8,5,"True","False",12,1
+"420","NOT HOT",2018,"75D","AWD",16065,"Black","Other",59494,63789,"Good","Commerce Mitsubishi",4.3,6,4.8,5,"True","False",40,1
+"421","NOT HOT",2018,"75D","AWD",17407,"Black","Black",61395,68213,"Good","Avondale Mitsubishi",4,71,4.8,5,"True","False",16,1
+"422","NOT HOT",2015,"85D","AWD",28517,"Gray","Gray",44899,51836.0835579515,"not_rating","Motor Cars of Nashville",4.3,40,4.8,41,"False","True",52,1
+"423","NOT HOT",2015,"85D","AWD",63108,"Blue","Other",38855,51836.0835579515,"not_rating","Sam Jidd Luxury LLC",3.9,7,4.8,41,"False","False",9,1
+"424","NOT HOT",2015,"85D","AWD",53021,"Gray","Black",45988,48852,"Good","iDeal Motors",5,28,4.8,41,"False","False",31,1
+"425","NOT HOT",2015,"70D","AWD",68650,"Black","Black",39988,40383,"Good","iDeal Motors",5,28,4.8,41,"True","False",21,1
+"426","NOT HOT",2015,"90D AUTOPILOT","AWD",14167,"Black","Beige",53885,51337,"Fair","Private Collection Motors",4,52,4.8,41,"False","False",6,1
+"427","NOT HOT",2016,"90D","AWD",43617,"Red","White",51933,55205,"Good","Prestige Motors Pasco",4.7,33,4.8,27,"False","False",37,1
+"428","NOT HOT",2016,"85D","AWD",54809,"Black","Black",49997,49604,"Fair","North American Auto Group",4.39333333333333,592.363265306122,4.8,27,"False","False",24,1
+"429","NOT HOT",2016,"70D","AWD",35730,"White","Beige",47500,49800,"Good","Carbiz Greater Washington DC",4.7,74,4.8,27,"False","False",29,1
+"430","NOT HOT",2016,"85D","AWD",29975,"Silver","Black",45990,55282,"Great","NextGear Motors",4.4,7,4.8,27,"False","False",17,2
+"431","NOT HOT",2016,"90D","AWD",60050,"Silver","Black",45995,41955,"Fair","San Diego Auto Finder",5,6,4.8,27,"False","False",31,1
+"432","NOT HOT",2016,"70D","AWD",18130,"Silver","Gray",45633,51836.0835579515,"not_rating","North Coast Auto Mall",4.7,2169,4.8,27,"False","True",197,1
+"433","NOT HOT",2016,"90D","AWD",10487,"Silver","Gray",58999,57056,"Fair","Motor Werks - Barrington Auto Mall",4.9,2868,4.8,27,"False","False",23,1
+"434","NOT HOT",2016,"75D","AWD",19156,"Gray","Beige",57800,60338,"Good","Ultimo Motors West",4.7,393,4.8,27,"False","False",215,1
+"435","NOT HOT",2017,"100D","AWD",13199,"Silver","Beige",89973,91535,"Good","Platinum Autos",4.8,75,4.7,25,"False","False",197,1
+"436","NOT HOT",2017,"","AWD",19486,"Blue","Black",60900,58400,"Fair","Land Rover of Parsippany, Inc",4.2,205,4.7,25,"False","False",82,1
+"437","NOT HOT",2017,"75D","AWD",27859,"Black","Black",58575,56067,"Good","Tom Naquin Chevrolet Cadillac Nissan",4.6,42,4.7,25,"False","True",4,1
+"438","NOT HOT",2017,"P100D","AWD",16331,"Silver","Black",74699,78907,"Good","Porsche Greenwich",5,252,4.7,25,"False","False",31,1
+"439","NOT HOT",2017,"100D","AWD",21767,"White","White",79850,68429,"Fair","Mark Kia",4.2,895,4.7,25,"False","False",23,1
+"440","NOT HOT",2017,"","AWD",9237,"Blue","Other",83995,92105,"Good","Graham Audi Volkswagen",4.39333333333333,592.363265306122,4.7,25,"False","False",14,1
+"441","NOT HOT",2018,"75D","AWD",12347,"Black","Black",60990,65444,"Good","Kia of Huntington",4.9,118,4.8,5,"True","False",22,1
+"442","NOT HOT",2018,"75D","AWD",14099,"Black","Black",60995,64860,"Good","Ideal Auto",5,20,4.8,5,"True","False",16,1
+"443","HOT CAR",2018,"75D","AWD",19155,"Black","Other",59494,63789,"Good","Commerce Mitsubishi",4.3,6,4.8,5,"True","False",5,1
+"444","NOT HOT",2018,"75D","AWD",19061,"Black","Black",60990,65206,"Good","Autos of Dallas",4.1,1000,4.8,5,"True","False",16,1
+"445","NOT HOT",2018,"P100D","AWD",16637,"Gray","Other",60900,65151,"Good","Jack Powell Chrysler Jeep Dodge RAM",4.5,146,4.8,5,"True","False",23,1
+"446","NOT HOT",2018,"75D","AWD",18610,"Black","Black",63995,67729,"Good","D & C Motor Company",4.7,88,4.8,5,"True","False",31,1
+"447","NOT HOT",2018,"75D","AWD",3584,"Black","Other",61855,64860,"Good","Sam Jidd Luxury LLC",3.9,7,4.8,5,"True","True",9,1
+"448","NOT HOT",2015,"90D","AWD",45509,"Black","Beige",56995,51836.0835579515,"not_rating","RDU Auto Sales",5,107,4.8,41,"False","True",2,1
+"449","NOT HOT",2015,"P85D","AWD",19780,"Silver","Beige",56889,63603,"Good","Auto Centrix",5,6,4.8,41,"False","False",52,1
+"450","NOT HOT",2016,"P90D","AWD",30911,"Blue","Beige",69995,79492,"Good","Ron Tonkin Gran Turismo",4.8,16,4.8,27,"False","False",32,2
+"451","NOT HOT",2016,"P90D","AWD",2561,"Black","Black",78999,83908,"Good","Northwest Motorsport - Puyallup",4.9,12245,4.8,27,"False","False",245,2
+"452","NOT HOT",2016,"P90D","AWD",60668,"Silver","Black",64999,61496,"Fair","K&S Auto Sales",5,39,4.8,27,"False","False",121,1
+"453","NOT HOT",2016,"P90D","AWD",50045,"Red","Black",67750,51836.0835579515,"not_rating","Horne Kia",4.7,452,4.8,27,"False","False",2,2
+"454","NOT HOT",2016,"P90D","AWD",20302,"Black","Beige",78988,79752,"Good","Ultimo Motors East",4.1,104,4.8,27,"False","False",225,3
+"455","NOT HOT",2016,"P90D","AWD",26992,"White","Gray",72888,79752,"Good","Mancuso Motorsports",4.5,17,4.8,27,"False","False",19,1
+"456","NOT HOT",2016,"P90D","AWD",29187,"Blue","Black",79950,83703,"Good","Park Place LTD",2.4,18,4.8,27,"False","False",191,1
+"457","NOT HOT",2016,"P90 D","AWD",49208,"Red","Beige",49496,51836.0835579515,"not_rating","Northwest Motorsport - Puyallup",4.9,12245,4.8,27,"False","False",2,1
+"458","NOT HOT",2017,"P100D","AWD",14353,"Red","Beige",98945,104471,"Good","Gosch Ford Temecula",4.9,1191,4.7,25,"False","False",113,1
+"459","NOT HOT",2018,"P100D","AWD",1018,"Gray","Black",114888,114657,"Good","Mancuso Motorsports",4.5,17,4.8,5,"False","False",19,1
+"460","NOT HOT",2015,"90D","AWD",35903,"Silver","Other",58500,61050,"Good","Ferman BMW",4.8,2622,4.8,41,"False","False",25,1
+"461","NOT HOT",2016,"P90D","AWD",11150,"Red","Black",79000,71264,"Fair","Priced Rite Auto",4.39333333333333,592.363265306122,4.8,27,"False","False",39,2
+"462","NOT HOT",2016,"P90D","AWD",39150,"Silver","Gray",74996,74989,"Good","Metrolina Auto Group",4.5,93,4.8,27,"False","False",186,2
+"463","NOT HOT",2016,"P90D","AWD",15405,"Gray","Other",76900,70734,"Fair","McLaren Boston",4.39333333333333,592.363265306122,4.8,27,"False","False",143,2
+"464","NOT HOT",2017,"P100D","AWD",3700,"Silver","Beige",107865,109717,"Good","Thomas Classics",4.9,209,4.7,25,"False","False",39,1
+"465","NOT HOT",2016,"P90D","AWD",58954,"Silver","Black",62995,61759,"Fair","O.C. AUTOHAUS",4.3,67,4.8,27,"False","False",16,2
+"466","NOT HOT",2016,"P90D","AWD",12269,"Blue","Beige",59998,51836.0835579515,"not_rating","Motor Cars of Nashville",4.3,40,4.8,27,"False","True",3,1
+"467","NOT HOT",2016,"P100D","AWD",18557,"White","Black",94000,98166,"Good","Jumbo Luxury Cars",5,24,4.8,27,"False","False",36,1
+"468","NOT HOT",2017,"P100D","AWD",24798,"Other","Other",97998,96811,"Fair","Morrie's Luxury Auto",2.3,15,4.7,25,"False","False",46,2
+"469","NOT HOT",2017,"P100D","AWD",13979,"Blue","Black",99999,128987,"Great","Arcari Motor Sales",5,2,4.7,25,"False","False",50,1
+"470","NOT HOT",2016,"P100D","AWD",23077,"Red","Black",66900,69874,"Good","Don Jackson Chrysler Dodge Jeep RAM Fiat",2.6,405,4.8,27,"False","True",205,1
+"471","NOT HOT",2016,"P90D","AWD",22355,"Black","Black",73899,79752,"Good","Current Automotive",4.39333333333333,592.363265306122,4.8,27,"False","False",127,1
+"472","NOT HOT",2015,"90D","AWD",29064,"Blue","Gray",59560,63417,"Good","McCarthy-Morse Chevrolet",4.9,146,4.8,41,"True","False",17,2
+"473","NOT HOT",2015,"90D","AWD",43612,"Silver","Other",59855,58388,"Fair","Sam Jidd Luxury LLC",3.9,7,4.8,41,"False","False",43,1
+"474","NOT HOT",2016,"P100D","AWD",6768,"Black","Black",98995,99586,"Good","The Porsche Exchange",4.9,48,4.8,27,"False","False",191,2
+"475","NOT HOT",2016,"P100D","AWD",15245,"Black","Black",92999,94664,"Good","Volvo Cars of Exeter",5,9,4.8,27,"False","False",33,1
+"476","NOT HOT",2017,"P100D","AWD",6145,"White","Black",109900,113680,"Good","Lake Forest Sports Cars",2,5,4.7,25,"False","False",222,3
+"477","NOT HOT",2016,"P90D","AWD",26838,"Silver","Black",72750,70264,"Fair","Mark Kia",4.2,895,4.8,27,"False","True",10,1
+"478","NOT HOT",2016,"P90D","AWD",20150,"Silver","Black",74995,70734,"Fair","SCOTTSDALE SPORT of CALIFORNIA",5,78,4.8,27,"False","False",99,2
+"479","NOT HOT",2016,"P100D","AWD",17443,"Red","Black",92980,95208,"Good","McLaren Charlotte",4.39333333333333,592.363265306122,4.8,27,"False","False",376,4
+"480","NOT HOT",2016,"P100D","AWD",40008,"Black","Black",87992,90241,"Good","Rocky Mountain Motors",4.4,44,4.8,27,"True","False",115,2
+"481","NOT HOT",2017,"P100D","AWD",11452,"Other","Other",109998,104471,"Fair","Mercedes-Benz of Encino",5,19,4.7,25,"False","False",26,2
+"482","NOT HOT",2017,"P100D","AWD",1984,"Black","Black",119999,124638,"Good","Arcari Motor Sales",5,2,4.7,25,"False","False",89,1
+"483","NOT HOT",2015,"90D","AWD",26520,"Blue","Black",63786,68474,"Good","Specialized Sales & Leasing",3.8,98,4.8,41,"False","False",102,1
+"484","NOT HOT",2017,"P100D","AWD",18871,"Black","Black",95000,90121,"Fair","Delong Ford Inc",5,844,4.7,25,"False","False",102,1
+"485","NOT HOT",2017,"P100D","AWD",14950,"White","Black",104500,109228,"Good","Champion City Motors",4,1,4.7,25,"False","False",100,2
+"486","NOT HOT",2018,"P100D","AWD",9101,"Silver","Other",98988,97517,"Fair","Rolls-Royce Motor Cars Raleigh",4.8,69,4.8,5,"False","False",19,1
+"487","NOT HOT",2018,"P100D","AWD",8017,"Other","Black",114995,109302,"Fair","Snap Car Buying",4.4,151,4.8,5,"False","False",33,1
+"488","NOT HOT",2016,"P100D","AWD",32856,"Black","Black",87900,90501,"Good","Greenwood Automotive",4,46,4.8,27,"False","False",106,1
+"489","NOT HOT",2018,"P100D","AWD",5294,"White","Beige",110888,114657,"Good","Mancuso Motorsports",4.5,17,4.8,5,"False","False",10,1
+"490","NOT HOT",2016,"P90D","AWD",48014,"Gray","Black",63999,59797,"Fair","Performance Motors",4.39333333333333,592.363265306122,4.8,27,"False","True",109,1
+"491","NOT HOT",2016,"P90D","AWD",43176,"Black","Black",74999,51836.0835579515,"not_rating","Galleria Motorcars",4.39333333333333,592.363265306122,4.8,27,"False","False",2,1
+"492","NOT HOT",2016,"P90D","AWD",18920,"Black","Other",49496,51836.0835579515,"not_rating","Volvo Cars of Exeter",5,9,4.8,27,"False","False",37,1
+"493","HOT CAR",2016,"P90D","AWD",27350,"Black","Black",78990,79752,"Good","Chicago Cars Online",5,1,4.8,27,"False","False",4,1
+"494","NOT HOT",2017,"P100D","AWD",12035,"White","Other",101988,104471,"Good","Mercedes-Benz of Arcadia",4.9,796,4.7,25,"False","False",7,1
+"495","NOT HOT",2017,"P100D","AWD",11463,"Other","White",105000,109464,"Good","VW Audi of Naples",4.9,3016,4.7,25,"False","False",5,1
+"496","NOT HOT",2014,"Performance","RWD",20547,"Blue","Black",43010,48278,"Good","Westcoast Auto Sales",4.9,1779,4.9,33,"False","False",191,1
+"497","NOT HOT",2014,"P85D","RWD",36628,"White","Black",42888,45973,"Good","Autobahn Gallery",4.39333333333333,592.363265306122,4.9,33,"False","False",32,1
+"498","NOT HOT",2014,"Performance","AWD",49790,"Gray","Gray",43997,35729,"Fair","Investment Automotive Group",5,41,4.9,33,"False","False",37,2
+"499","NOT HOT",2015,"85","RWD",23080,"Silver","Gray",43988,46280,"Good","CAG - Austin Subaru",4.9,459,4.8,41,"False","True",17,1
+"500","NOT HOT",2014,"Performance","RWD",65424,"Gray","Other",44855,46211,"Good","Jidd Motors",4.7,1418,4.9,33,"False","False",193,2
+"501","NOT HOT",2014,"Performance","RWD",18150,"Black","Other",45800,48690,"Good","private_seller",4.39333333333333,592.363265306122,4.9,33,"False","False",39,1
+"502","NOT HOT",2014,"Performance","RWD",53303,"White","Beige",37191,41281,"Good","Houston Direct Auto",2.6,77,4.9,33,"False","True",58,1
+"503","NOT HOT",2014,"Base","RWD",43188,"Blue","Beige",39995,40281,"Good","Imperial Highline",4.6,29,4.9,33,"True","False",122,1
+"504","HOT CAR",2014,"","RWD",41229,"Black","Other",49988,48081,"Fair","Airpark Dodge Chrysler Jeep RAM",3.1,104,4.9,33,"True","False",7,1
+"505","NOT HOT",2014,"Performance","RWD",57082,"Gray","Other",37999,41365,"Good","South County Chrysler Dodge Jeep RAM FIAT",4.5,514,4.9,33,"False","True",98,1
+"506","NOT HOT",2015,"85","RWD",41260,"Blue","Beige",49995,52698,"Good","Universal Mitsubishi",4.9,426,4.8,41,"False","False",401,1
+"507","NOT HOT",2014,"P85D","RWD",42192,"Black","Black",38990,40793,"Good","Pierre Ford",4.7,405,4.9,33,"False","False",30,1
+"508","NOT HOT",2014,"Performance","RWD",48423,"Black","Black",46950,48506,"Good","Park Place LTD",2.4,18,4.9,33,"False","False",54,2
+"509","NOT HOT",2014,"Performance","RWD",53700,"White","Black",37500,43041,"Good","LW Automotive",4.6,136,4.9,33,"False","False",122,3
+"510","NOT HOT",2014,"Performance","RWD",19654,"Black","Gray",47950,47386,"Fair","Roadsport",4.39333333333333,592.363265306122,4.9,33,"False","False",352,2
+"511","NOT HOT",2014,"Performance","RWD",31721,"Red","Beige",42900,46779,"Good","MSI Auto Sales",3.2,18,4.9,33,"False","False",228,1
+"512","NOT HOT",2014,"Performance","RWD",74387,"Black","Beige",37980,40958,"Good","Lucky Motors Megastore of Villa Park",4,68,4.9,33,"False","False",211,2
+"513","NOT HOT",2014,"Base","RWD",34230,"Blue","Black",39550,47502,"Great","Marietta Luxury Motors",4.7,1621,4.9,33,"False","True",317,1
+"514","NOT HOT",2014,"Performance","RWD",43696,"Blue","Gray",40997,42768,"Good","Thiel Motor Sales Inc.",4.4,47,4.9,33,"True","False",137,1
+"515","NOT HOT",2014,"P85D","RWD",43920,"Green","Beige",41800,35580,"Fair","Autos, Etc.",5,14,4.9,33,"False","False",95,1
+"516","NOT HOT",2014,"Performance","RWD",51635,"Red","Beige",37499,43113,"Good","ALM Kia South",4.6,1739,4.9,33,"False","True",108,1
+"517","NOT HOT",2014,"Base","RWD",42409,"Brown","Beige",42990,45149,"Good","ALM Kennesaw",4.8,816,4.9,33,"True","True",273,2
+"518","HOT CAR",2014,"","RWD",91196,"Blue","Beige",35989,41539,"Great","Current Automotive",4.39333333333333,592.363265306122,4.9,33,"False","False",3,3
+"519","NOT HOT",2014,"Base","RWD",40543,"Black","Beige",39988,42273,"Good","Bedrock Motors",4.8,43,4.9,33,"False","False",19,1
+"520","NOT HOT",2014,"Performance","RWD",53630,"Red","Other",46995,48866,"Good","Quantum Auto Sales",4.7,71,4.9,33,"True","False",63,1
+"521","NOT HOT",2014,"Performance","RWD",19987,"White","Gray",49900,54588,"Good","Miami Auto Broker",3.5,53,4.9,33,"False","False",244,3
+"522","NOT HOT",2014,"Base","RWD",24252,"Gray","Beige",43699,47841,"Good","Motor Cars of Nashville",4.3,40,4.9,33,"False","False",57,1
+"523","NOT HOT",2014,"Performance","RWD",42248,"Other","Beige",46995,48377,"Good","Universal Mitsubishi",4.9,426,4.9,33,"False","False",407,1
+"524","NOT HOT",2015,"85","RWD",45360,"White","Beige",43985,47037,"Good","Jidd Motors",4.7,1418,4.8,41,"False","False",256,1
+"525","NOT HOT",2015,"85","RWD",30713,"Black","Other",43800,46694,"Good","United Imports",4.7,93,4.8,41,"False","False",263,1
+"526","NOT HOT",2015,"85","RWD",46863,"Gray","Gray",45888,51682,"Good","Private Collection Motors",4,52,4.8,41,"False","True",186,1
+"527","NOT HOT",2015,"85","RWD",31703,"Black","Beige",49995,54419,"Good","Universal Mitsubishi",4.9,426,4.8,41,"False","False",392,1
+"528","HOT CAR",2015,"85","RWD",43080,"White","Black",45995,46096,"Good","San Diego eCars Inc.",4.39333333333333,592.363265306122,4.8,41,"False","False",5,1
+"529","NOT HOT",2015,"85","RWD",35000,"Gray","Black",45997,50057,"Good","Fred's Executive Auto",4.7,76,4.8,41,"False","False",338,2
+"530","NOT HOT",2014,"P85D","RWD",43636,"Gray","Black",37884,38802,"Good","Major Motor Cars",5,10,4.9,33,"True","False",120,1
+"531","NOT HOT",2014,"P85D","RWD",51933,"Silver","Black",42950,43156,"Good","Roadsport",4.39333333333333,592.363265306122,4.9,33,"False","False",61,3
+"532","NOT HOT",2014,"Performance","RWD",49870,"Silver","Other",39869,47975,"Great","Nissan of Duarte",2,9,4.9,33,"False","False",297,2
+"533","NOT HOT",2014,"Performance","RWD",70974,"Blue","Black",38940,41201,"Good","Phillips Auto",4.2,38,4.9,33,"False","True",274,1
+"534","NOT HOT",2014,"Performance","RWD",23885,"White","Gray",43995,48910,"Good","Godspeed Motors",4.7,57,4.9,33,"False","True",79,1
+"535","NOT HOT",2015,"85D","RWD",32489,"Red","Beige",45995,49897,"Good","Imperial Highline",4.6,29,4.8,41,"False","False",373,1
+"536","NOT HOT",2014,"Performance","RWD",37214,"Other","Black",38995,48644,"Great","Godspeed Motors",4.7,57,4.9,33,"True","True",24,1
+"537","NOT HOT",2014,"Base","RWD",45420,"Black","Beige",41995,40281,"Fair","Imperial Highline",4.6,29,4.9,33,"True","False",386,1
+"538","NOT HOT",2014,"Performance","RWD",39780,"Blue","Beige",41989,51836.0835579515,"not_rating","Absolute Motors Inc",5,13,4.9,33,"True","True",194,2
+"539","NOT HOT",2014,"P85","RWD",51630,"Red","Black",39989,44321,"Good","Auto Centrix",5,6,4.9,33,"False","False",9,1
+"540","NOT HOT",2014,"P85D","RWD",19786,"Black","Black",45995,50052,"Good","Imperial Highline",4.6,29,4.9,33,"False","False",373,1
+"541","NOT HOT",2014,"","RWD",34515,"Gray","Black",42995,43597,"Good","Auto Expo Ent Inc",4.8,1014,4.9,33,"False","False",225,1
+"542","NOT HOT",2014,"Base","RWD",28127,"Silver","Beige",46995,43028,"Fair","Imperial Highline",4.6,29,4.9,33,"False","False",373,1
+"543","NOT HOT",2015,"85","RWD",40756,"Black","Other",41800,44825,"Good","United Imports",4.7,93,4.8,41,"False","False",260,1
+"544","NOT HOT",2014,"Base","RWD",18923,"Blue","Beige",42499,47987,"Good","Las Vegas Auto Sport",3.4,10,4.9,33,"False","True",365,1
+"545","NOT HOT",2014,"Base","RWD",33168,"Silver","Beige",39995,42719,"Good","Imperial Highline",4.6,29,4.9,33,"True","True",387,1
+"546","NOT HOT",2014,"Performance","RWD",41908,"Blue","Black",45888,48718,"Good","Sandberg Volvo Cars",4.7,540,4.9,33,"False","False",11,2
+"547","NOT HOT",2014,"Base","RWD",32244,"Silver","Gray",43300,46063,"Good","Lexus Monterey Peninsula",5,31,4.9,33,"True","False",88,1
+"548","NOT HOT",2015,"85D","RWD",46513,"Black","Black",49400,51253,"Good","Alfa Romeo Dallas",5,1,4.8,41,"False","False",340,1
+"549","HOT CAR",2015,"85","RWD",43168,"Black","Beige",42991,44679,"Good","WishList Autos",4.39333333333333,592.363265306122,4.8,41,"False","False",11,2
+"550","NOT HOT",2014,"Performance","RWD",70529,"Blue","Other",32800,40320,"Great","Wheels & Deals",4.6,24,4.9,33,"False","True",109,1
+"551","NOT HOT",2014,"SDAUTOFINDERS.COM LIKE NEW CLEAN CARFAX","RWD",43890,"Blue","Beige",35995,38046,"Good","San Diego Auto Finder",5,6,4.9,33,"True","False",87,2
+"552","NOT HOT",2014,"Performance","RWD",33665,"Silver","Gray",42988,46484,"Good","Greenwood Automotive",4,46,4.9,33,"False","False",310,1
+"553","NOT HOT",2014,"Performance","RWD",39270,"Gray","Beige",41995,38588,"Fair","Elite Motors",5,27,4.9,33,"True","False",409,1
+"554","NOT HOT",2014,"Performance","RWD",35394,"Gray","Gray",41000,45771,"Good","Santa Maria BMW Volkswagen",2.2,15,4.9,33,"False","False",58,1
+"555","NOT HOT",2014,"Base","RWD",93287,"White","Beige",43999,41202,"Fair","Las Vegas Auto Sport",3.4,10,4.9,33,"True","False",361,1
+"556","NOT HOT",2014,"P85D","RWD",30349,"Black","Black",39895,51945,"Great","Jaguar Land Rover Bethesda",3.8,53,4.9,33,"False","False",7,1
+"557","HOT CAR",2014,"P85D","RWD",52811,"Blue","Beige",40799,43144,"Good","Motor Cars of Nashville",4.3,40,4.9,33,"False","False",3,1
+"558","HOT CAR",2014,"Performance","RWD",31105,"Silver","Gray",41000,46828,"Good","Carvana",4.4,321,4.9,33,"False","False",8,1
+"559","NOT HOT",2014,"Performance","RWD",44980,"Gray","Other",44855,47415,"Good","Jidd Motors",4.7,1418,4.9,33,"False","False",193,1
+"560","NOT HOT",2014,"P85D","RWD",49168,"Red","Black",40995,34900,"Fair","Worldwide Motors",5,20,4.9,33,"False","False",36,1
+"561","NOT HOT",2014,"","RWD",43389,"White","Beige",41988,44470,"Good","iDeal Motors",5,28,4.9,33,"False","True",84,1
+"562","NOT HOT",2015,"85D","RWD",36729,"Black","Black",47800,48722,"Good","Ultimo Motors North Shore",5,21,4.8,41,"False","False",172,1
+"563","NOT HOT",2015,"85","RWD",39419,"Red","Other",41800,44375,"Good","United Imports",4.7,93,4.8,41,"False","False",263,1
+"564","NOT HOT",2015,"85","RWD",21530,"White","Other",43800,46569,"Good","United Imports",4.7,93,4.8,41,"False","True",260,1
+"565","NOT HOT",2014,"Performance","RWD",37996,"Blue","Black",46995,42520,"Fair","Stevens Creek Showcase",1,1,4.9,33,"False","False",12,1
+"566","NOT HOT",2014,"Performance","RWD",29038,"Silver","Gray",41999,45953,"Good","Montrose Westside Auto Campus",4.6,460,4.9,33,"False","False",368,3
+"567","NOT HOT",2014,"Performance","RWD",36750,"Blue","Beige",38898,43937,"Good","Apex Imports",4.2,68,4.9,33,"True","False",310,2
+"568","NOT HOT",2014,"Base","RWD",45100,"Gray","White",38000,40556,"Good","Auto Quest",4.6,57,4.9,33,"False","True",78,1
+"569","NOT HOT",2014,"Performance","RWD",42757,"Red","Black",39900,48166,"Good","Sunshine Auto Mall",5,211,4.9,33,"False","False",16,1
+"570","NOT HOT",2014,"P85D","RWD",49927,"White","Beige",39499,41984,"Good","AX Auto Inc.",4.1,35,4.9,33,"False","True",66,1
+"571","NOT HOT",2015,"85","RWD",27675,"Silver","Beige",41099,45866,"Good","OffLeaseOnly.com The Nation's Used Car Destination",4.9,13060,4.8,41,"False","False",117,1
+"572","NOT HOT",2015,"85","RWD",18978,"Gray","Beige",44799,49162,"Good","OffLeaseOnly.com The Nation's Used Car Destination",4.9,15688,4.8,41,"False","True",187,1
+"573","NOT HOT",2015,"85D","RWD",32913,"White","Black",46995,49897,"Good","Imperial Highline",4.6,29,4.8,41,"False","False",373,1
+"574","NOT HOT",2014,"Base","RWD",32315,"Green","Black",37499,47348,"Great","Motor Cars of Nashville",4.3,40,4.9,33,"True","False",29,1
+"575","NOT HOT",2014,"P85D","RWD",74885,"Blue","Black",36800,35497,"Fair","Preferred Imports",4.5,68,4.9,33,"True","False",212,3
+"576","NOT HOT",2014,"P85","RWD",83640,"Red","Black",36989,33589,"Fair","Auto Centrix",5,6,4.9,33,"True","False",37,1
+"577","NOT HOT",2014,"","RWD",23500,"Red","Beige",42988,47740,"Good","Walnut Creek Chrysler Jeep Dodge Ram SRT",5,16,4.9,33,"False","False",40,1
+"578","NOT HOT",2015,"85D","RWD",32450,"White","Black",47995,49897,"Good","Imperial Highline",4.6,29,4.8,41,"False","False",373,1
+"579","NOT HOT",2015,"85D","AWD",23305,"Black","Gray",43699,46657,"Good","Motor Cars of Nashville",4.3,40,4.8,41,"True","True",23,2
+"580","NOT HOT",2015,"85D","AWD",46182,"Black","Beige",43995,47360,"Good","Auto Expo Ent Inc",4.8,1014,4.8,41,"False","False",207,1
+"581","NOT HOT",2014,"P85D","AWD",24194,"Brown","Black",55000,58857,"Good","Nelson Automotive",5,39,4.9,33,"False","True",45,1
+"582","NOT HOT",2014,"P85D","AWD",47698,"White","Black",50950,60816,"Great","Maita Mazda",4.7,613,4.9,33,"False","False",282,1
+"583","NOT HOT",2014,"P85D","AWD",116782,"Silver","Black",42989,26169,"Fair","Auto Centrix",5,6,4.9,33,"False","True",28,1
+"584","NOT HOT",2015,"85D","AWD",32432,"Black","Other",41499,48486,"Great","North Coast Auto Mall",4.7,2557,4.8,41,"False","True",110,1
+"585","NOT HOT",2015,"85D","AWD",28825,"Gray","Other",50777,53620,"Good","Maserati of Anaheim Hills",1,4,4.8,41,"False","False",403,1
+"586","NOT HOT",2015,"85D","AWD",34806,"Blue","Black",44995,48405,"Good","Auto Expo Ent Inc",4.8,1014,4.8,41,"True","True",212,1
+"587","NOT HOT",2015,"85D","AWD",46518,"Silver","Beige",48777,49378,"Good","iDeal Motors",5,28,4.8,41,"True","False",36,1
+"588","NOT HOT",2015,"85D","AWD",61901,"Black","Black",49998,47492,"Fair","Metro West Auto Sales",3.7,16,4.8,41,"False","False",134,1
+"589","NOT HOT",2015,"P85D","AWD",22501,"Silver","Gray",63995,67729,"Good","Universal Mitsubishi",4.9,426,4.8,41,"False","False",353,1
+"590","NOT HOT",2015,"P85D","AWD",25307,"Other","Other",58490,61314,"Good","Discovery Auto Center, LLC",3.9,37,4.8,41,"False","True",28,1
+"591","NOT HOT",2014,"P85D","AWD",33785,"Gray","Other",51555,57809,"Good","Sam Jidd Luxury LLC",3.9,7,4.9,33,"False","False",43,1
+"592","NOT HOT",2015,"85D","AWD",44000,"Beige","Gray",46995,54484,"Great","Certified Luxury Auto",5,30,4.8,41,"False","False",74,3
+"593","NOT HOT",2015,"85D","AWD",17016,"White","Gray",59995,64722,"Good","Carmel Motors",4.1,53,4.8,41,"False","False",221,1
+"594","NOT HOT",2015,"85D","AWD",48989,"Black","Gray",45888,49378,"Good","Private Collection Motors",4,52,4.8,41,"False","True",45,2
+"595","NOT HOT",2015,"P85D","AWD",52172,"Black","Black",54999,50783,"Fair","Performance Motors",4.39333333333333,592.363265306122,4.8,41,"True","False",39,1
+"596","NOT HOT",2015,"85D","AWD",19884,"Blue","Beige",63999,49889,"Fair","Nashville Speed Shop",1,15,4.8,41,"False","False",386,1
+"597","NOT HOT",2015,"85D","AWD",26920,"White","Beige",45900,49150,"Good","Axis Motorcars",4.6,232,4.8,41,"False","False",56,2
+"598","NOT HOT",2015,"85D","AWD",43171,"Gray","Beige",49995,48601,"Fair","Imperial Highline",4.6,29,4.8,41,"False","True",400,1
+"599","NOT HOT",2015,"85D","AWD",51203,"Black","Black",44995,48228,"Good","Imperial Highline",4.6,29,4.8,41,"False","False",386,1
+"600","NOT HOT",2015,"P85D","AWD",30626,"Black","Black",55498,60505,"Good","Long Cadillac",5,28,4.8,41,"False","False",72,1
+"601","NOT HOT",2015,"85D","AWD",53983,"Silver","Black",47495,47807,"Good","Imperial Highline",4.6,29,4.8,41,"False","False",386,2
+"602","NOT HOT",2015,"85D","AWD",52097,"Black","Black",48495,48139,"Fair","Imperial Highline",4.6,29,4.8,41,"True","True",400,1
+"603","NOT HOT",2015,"85D","AWD",41596,"Blue","Black",48000,51178,"Good","Carswap",4.8,60,4.8,41,"False","False",159,1
+"604","NOT HOT",2015,"85D","AWD",27435,"Blue","Black",47995,52769,"Good","Florida Auto Imports",5,18,4.8,41,"False","False",187,1
+"605","NOT HOT",2015,"85D","AWD",22871,"Silver","Gray",44399,50019,"Good","OffLeaseOnly.com The Nation's Used Car Destination",4.9,15230,4.8,41,"False","True",158,1
+"606","NOT HOT",2015,"85D","AWD",11881,"Silver","Beige",51999,52334,"Good","Texas Cars Direct",4.9,176,4.8,41,"False","False",9,2
+"607","NOT HOT",2015,"85D","AWD",36375,"Black","Black",44995,48464,"Good","Auto Expo Ent Inc",4.8,1014,4.8,41,"True","True",211,1
+"608","NOT HOT",2015,"85D","AWD",40210,"Silver","Black",46995,48329,"Good","Don Sitts Auto Sales",5,134,4.8,41,"False","False",11,2
+"609","NOT HOT",2015,"85D","AWD",35116,"Red","Other",43800,45311,"Good","United Imports",4.7,93,4.8,41,"False","False",263,1
+"610","NOT HOT",2015,"85D","AWD",40417,"Silver","Black",43427,45219,"Good","Joyce Honda",2.1,26,4.8,41,"False","True",30,1
+"611","NOT HOT",2015,"85D","AWD",35841,"White","Black",42990,51836.0835579515,"not_rating","NextGear Motors",4.4,7,4.8,41,"False","False",17,1
+"612","NOT HOT",2015,"85D","AWD",38915,"Black","Beige",42799,48244,"Good","North Coast Auto Mall",4.7,2557,4.8,41,"False","True",324,1
+"613","NOT HOT",2015,"P85D","AWD",24077,"Black","Black",54976,58860,"Good","O'Neil Nissan",4.9,616,4.8,41,"False","False",207,2
+"614","NOT HOT",2014,"P85D","AWD",38377,"Gray","Black",53998,56710,"Good","Roby Cars Inc",4.39333333333333,592.363265306122,4.9,33,"False","False",46,2
+"615","NOT HOT",2015,"85D","AWD",70969,"Gray","Black",42988,44785,"Good","iDeal Motors",5,28,4.8,41,"True","False",26,3
+"616","NOT HOT",2015,"85D","AWD",70745,"Brown","Other",41999,32381,"Fair","Cincinnati Automotive Group Inc",3.8,65,4.8,41,"False","False",193,2
+"617","NOT HOT",2015,"85D","AWD",36571,"Red","Beige",53495,49827,"Fair","Imperial Highline",4.6,29,4.8,41,"False","False",400,2
+"618","NOT HOT",2015,"85D","AWD",56819,"Blue","Black",45995,46370,"Good","Imperial Highline",4.6,29,4.8,41,"False","False",386,1
+"619","NOT HOT",2015,"85D","AWD",19692,"Gray","Beige",44998,48898,"Good","HGreg.com Orlando",4.7,1202,4.8,41,"False","True",158,1
+"620","NOT HOT",2014,"Performance","AWD",24215,"Brown","Black",48595,45887,"Fair","RDU Auto Sales",5,107,4.9,33,"False","True",43,2
+"621","NOT HOT",2015,"85D","AWD",55090,"Other","Black",43995,45538,"Good","Highline Auto Sales",4.6,272,4.8,41,"False","True",8,1
+"622","NOT HOT",2015,"85D","AWD",57714,"White","Gray",52488,50012,"Fair","Jim Butler Chevrolet",4.6,1426,4.8,41,"False","False",166,1
+"623","NOT HOT",2015,"85D","AWD",41940,"White","Beige",47000,48035,"Good","Carbiz Greater Washington DC",4.7,74,4.8,41,"False","False",26,4
+"624","NOT HOT",2014,"P85D","AWD",23674,"Silver","Black",51995,58302,"Good","Highline Auto Sales",4.6,272,4.9,33,"False","True",28,1
+"625","HOT CAR",2015,"P85D","AWD",55903,"Red","Beige",47999,48892,"Good","Atlanta Autos",4.3,913,4.8,41,"False","False",24,1
+"626","NOT HOT",2015,"90D","AWD",54238,"White","Gray",47995,42414,"Fair","City Auto Sales, LLC",4.7,155,4.8,41,"False","False",30,3
+"627","NOT HOT",2015,"85D","AWD",43059,"Blue","Beige",48888,49426,"Good","Private Collection Motors",4,52,4.8,41,"False","False",36,1
+"628","NOT HOT",2015,"85D","AWD",48915,"Black","Black",45000,47807,"Good","Carbiz Greater Washington DC",4.7,74,4.8,41,"False","False",35,1
+"629","NOT HOT",2015,"85D","AWD",27972,"Black","Beige",52995,53612,"Good","Universal Mitsubishi",4.9,426,4.8,41,"False","False",337,1
+"630","NOT HOT",2015,"85D","AWD",14125,"White","Other",49988,52903,"Good","Rolls-Royce Motor Cars Raleigh",4.8,69,4.8,41,"False","False",60,1
+"631","NOT HOT",2015,"90D","AWD",46471,"White","Beige",46495,51271,"Good","Georgia Luxury Cars",4.4,144,4.8,41,"False","False",334,1
+"632","NOT HOT",2015,"85D","AWD",53650,"Silver","Gray",48995,48111,"Fair","Imperial Highline",4.6,29,4.8,41,"True","False",373,1
+"633","NOT HOT",2015,"P85D","AWD",26966,"Red","Black",55967,60625,"Good","Manheim Imports",4.9,155,4.8,41,"False","False",48,2
+"634","NOT HOT",2015,"P85D","AWD",52064,"Red","Beige",52995,56962,"Good","Imperial Highline",4.6,29,4.8,41,"False","False",373,1
+"635","NOT HOT",2015,"P85D","AWD",45930,"Black","Black",59989,58536,"Fair","Auto Centrix",5,6,4.8,41,"False","False",10,1
+"636","NOT HOT",2015,"P85D","AWD",83323,"Blue","Beige",45995,51836.0835579515,"not_rating","Highline Auto Sales",4.6,272,4.8,41,"True","False",2,2
+"637","NOT HOT",2015,"P85D","AWD",30905,"Silver","Black",56885,67637,"Great","Private Collection Motors",4,52,4.8,41,"True","False",216,1
+"638","NOT HOT",2015,"P85D","AWD",15455,"Black","Other",62577,66113,"Good","Luxury Motorsports",3.9,63,4.8,41,"False","False",306,1
+"639","NOT HOT",2015,"P85D","AWD",24805,"Blue","Black",56487,60401,"Good","Audi Arlington",3.1,195,4.8,41,"False","False",41,1
+"640","HOT CAR",2015,"90D","AWD",46124,"White","Other",44995,51836.0835579515,"not_rating","Federal Auctioneers",3.8,153,4.8,41,"False","False",8,1
+"641","HOT CAR",2015,"P85D","AWD",19840,"Blue","Beige",59248,51836.0835579515,"not_rating","Castle Hills Motors",2.4,8,4.8,41,"False","True",34,1
+"642","NOT HOT",2014,"Base","RWD",29214,"White","Gray",37900,42008,"Good","German Concepts",3,42,4.9,33,"True","False",103,1
+"643","HOT CAR",2014,"Base","RWD",42732,"Brown","Black",36991,40222,"Good","Pearson INFINITI",4.39333333333333,592.363265306122,4.9,33,"False","False",228,1
+"644","NOT HOT",2014,"Base","RWD",41387,"Black","Black",36191,39704,"Good","Houston Direct Auto",2.6,77,4.9,33,"False","False",172,1
+"645","NOT HOT",2014,"Base","RWD",49650,"Silver","Other",39995,42069,"Good","South Bay Pre-Owned",3.8,24,4.9,33,"False","False",3,2
+"646","HOT CAR",2015,"60","RWD",47400,"Black","Other",43000,45624,"Good","private_seller",4.39333333333333,592.363265306122,4.8,41,"False","False",184,2
+"647","NOT HOT",2015,"60","RWD",96634,"Red","Black",29850,35088,"Great","Windy City Motors",4.8,757,4.8,41,"False","False",141,1
+"648","NOT HOT",2014,"Base","RWD",75374,"White","Other",32490,34704,"Good","Anthony Buick GMC",4.2,256,4.9,33,"False","False",187,2
+"649","NOT HOT",2014,"Base","RWD",9300,"Gray","Black",49991,53476,"Good","Choice Auto Center",3.9,15,4.9,33,"False","False",123,1
+"650","NOT HOT",2014,"Base","RWD",68500,"Black","Black",33500,51836.0835579515,"not_rating","private_seller",4.39333333333333,592.363265306122,4.9,33,"False","False",72,2
+"651","NOT HOT",2014,"Base","RWD",40609,"Black","Beige",37588,40081,"Good","Haims Motors Ft. Lauderdale",4.7,403,4.9,33,"False","False",374,1
+"652","NOT HOT",2014,"60 kWh Battery","RWD",50937,"Blue","Beige",36989,45075,"Great","Auto Centrix",5,6,4.9,33,"False","False",25,1
+"653","NOT HOT",2014,"Base","RWD",49933,"White","Black",35900,41419,"Great","Cash for Cars",4,2,4.9,33,"False","False",40,2
+"654","NOT HOT",2014,"Base","RWD",29212,"Blue","Beige",39995,46117,"Great","Auto Expo Ent Inc",4.8,1014,4.9,33,"False","True",240,1
+"655","NOT HOT",2015,"70D","RWD",64531,"White","Beige",34978,36901,"Good","Hanna Imports",4.9,1917,4.8,41,"False","True",15,2
+"656","NOT HOT",2014,"Base","RWD",55794,"Green","Beige",35595,35130,"Fair","Jidd Motors",4.7,1418,4.9,33,"True","False",193,1
+"657","NOT HOT",2014,"Base","RWD",72859,"Silver","Beige",31760,29944,"Fair","Lawrence Kia",4.1,177,4.9,33,"False","False",26,1
+"658","NOT HOT",2014,"Base","RWD",36934,"White","Gray",31833,42028,"Great","Gold Coast Motorsports",4.6,82,4.9,33,"True","False",127,1
+"659","NOT HOT",2014,"Base","4x2/2-wheel drive",50621,"Red","Black",34988,36405,"Good","Ride N Drive",4.7,11,4.9,33,"False","False",189,3
+"660","NOT HOT",2014,"Base","RWD",44207,"Gray","Black",49496,51836.0835579515,"not_rating","AlphaCars",5,47,4.9,33,"False","False",165,2
+"661","NOT HOT",2014,"Base","RWD",35978,"Green","Beige",40995,45320,"Good","Universal Mitsubishi",4.9,426,4.9,33,"False","False",392,1
+"662","NOT HOT",2014,"Base","RWD",19206,"Black","Black",49995,54792,"Good","AUTOSOURCE",2,11,4.9,33,"False","True",49,2
+"663","NOT HOT",2015,"60","RWD",31660,"Silver","Black",42888,48631,"Good","Private Collection Motors",4,52,4.8,41,"False","False",186,1
+"664","NOT HOT",2014,"Base","RWD",35737,"Black","Beige",34000,38253,"Good","Nelson Automotive",5,39,4.9,33,"True","True",60,1
+"665","NOT HOT",2014,"Base","RWD",48812,"Gray","Other",39469,42359,"Good","private_seller",3,2,4.9,33,"False","True",113,2
+"666","NOT HOT",2015,"85D","RWD",20140,"Silver","Other",42555,46863,"Good","Sam Jidd Luxury LLC",3.9,7,4.8,41,"False","False",51,1
+"667","NOT HOT",2014,"Base","RWD",48139,"Black","Beige",37997,39239,"Good","North American Auto Group",4.39333333333333,592.363265306122,4.9,33,"False","False",24,2
+"668","HOT CAR",2014,"Base","RWD",52499,"White","Gray",40000,42074,"Good","INFINITI of Marin",4.39333333333333,592.363265306122,4.9,33,"True","False",10,2
+"669","NOT HOT",2014,"Base","RWD",52326,"Blue","Beige",37995,38124,"Good","Imperial Highline",4.6,29,4.9,33,"True","False",255,2
+"670","NOT HOT",2014,"Base","RWD",59202,"Silver","Gray",38977,41396,"Good","Victory Honda of Morgan Hill",1,1,4.9,33,"False","False",12,2
+"671","NOT HOT",2015,"60","RWD",28602,"White","Black",38995,45302,"Good","Highline Auto Sales",4.6,272,4.8,41,"False","False",8,1
+"672","NOT HOT",2014,"Base","RWD",54246,"Gray","Gray",37950,42148,"Good","Park Place LTD",2.4,18,4.9,33,"False","False",254,3
+"673","NOT HOT",2014,"Base","RWD",25344,"Green","Black",41995,46451,"Good","Bell Mitsubishi",4.9,466,4.9,33,"False","False",63,1
+"674","NOT HOT",2015,"60","RWD",42879,"Black","Other",41490,42358,"Good","Discovery Auto Center, LLC",3.9,37,4.8,41,"False","True",409,1
+"675","NOT HOT",2015,"60","RWD",17203,"Blue","Other",42800,46214,"Good","United Imports",4.7,93,4.8,41,"False","False",233,1
+"676","NOT HOT",2014,"Base","RWD",40622,"White","Beige",36199,40378,"Good","OffLeaseOnly.com The Nation's Used Car Destination",4.9,15230,4.9,33,"False","True",204,2
+"677","NOT HOT",2015,"kWh Battery","RWD",36378,"White","Beige",42000,43312,"Good","K&S Auto Sales",5,39,4.8,41,"False","False",50,1
+"678","NOT HOT",2014,"Base","RWD",61494,"White","Black",31989,35880,"Good","Houston Direct Auto",2.6,77,4.9,33,"False","False",145,2
+"679","NOT HOT",2014,"Base","RWD",74000,"Brown","Other",33629,40327,"Great","private_seller",3,2,4.9,33,"False","False",30,2
+"680","NOT HOT",2015,"60","RWD",30044,"Black","Black",39999,44494,"Good","Modern Motorcars",4.9,419,4.8,41,"False","False",229,2
+"681","NOT HOT",2014,"Base","RWD",61231,"Black","Beige",29995,35062,"Great","Highline Auto Sales",4.6,272,4.9,33,"False","False",39,3
+"682","NOT HOT",2014,"Base","RWD",23998,"Red","Beige",34995,39838,"Good","RDU Auto Sales",5,107,4.9,33,"False","True",81,1
+"683","NOT HOT",2014,"Base","RWD",51720,"Gray","Black",35585,37647,"Good","Leckner Chrysler Dodge Jeep RAM",4.5,61,4.9,33,"True","False",250,2
+"684","NOT HOT",2014,"Base","RWD",50360,"Black","Black",38995,38378,"Fair","ANF Auto Finance",3.8,116,4.9,33,"False","False",201,2
+"685","NOT HOT",2014,"Base","RWD",38758,"White","Black",42000,42737,"Good","Motors Northwest",4.2,34,4.9,33,"False","False",31,1
+"686","NOT HOT",2015,"60","RWD",31674,"White","Black",39599,44587,"Good","OffLeaseOnly.com The Nation's Used Car Destination",4.9,15230,4.8,41,"False","False",197,1
+"687","NOT HOT",2015,"85D","RWD",37766,"Black","Black",37895,51836.0835579515,"not_rating","Miami Car Credit",4.8,1176,4.8,41,"False","True",166,1
+"688","NOT HOT",2015,"60","RWD",41351,"Black","Black",38799,42552,"Good","Motor Cars of Nashville",4.3,40,4.8,41,"False","False",21,1
+"689","NOT HOT",2015,"60","RWD",29537,"Blue","Beige",39995,44587,"Good","San Diego Auto Finder",5,6,4.8,41,"False","False",52,1
+"690","NOT HOT",2015,"70D","AWD",39970,"Gray","Black",40377,42915,"Good","Wholesale Inc.",4.8,340,4.8,41,"False","False",9,1
+"691","NOT HOT",2015,"70D","AWD",44260,"Blue","Other",43991,43507,"Fair","Excellent Choice Auto Sales",4.39333333333333,592.363265306122,4.8,41,"False","False",22,1
+"692","NOT HOT",2015,"70D","AWD",43650,"Black","Gray",39888,42573,"Good","Private Collection Motors",4,52,4.8,41,"False","True",156,1
+"693","NOT HOT",2015,"70D","AWD",37962,"Black","Other",38995,42827,"Good","United Imports",4.7,93,4.8,41,"False","True",264,1
+"694","NOT HOT",2015,"70D","AWD",37585,"Other","Black",37995,51836.0835579515,"not_rating","Highline Auto Sales",4.6,272,4.8,41,"False","False",15,1
+"695","NOT HOT",2015,"70D","AWD",43098,"Silver","Gray",43000,47965,"Good","Carbiz Greater Washington DC",4.7,74,4.8,41,"True","False",18,1
+"696","NOT HOT",2015,"70D","AWD",57289,"Silver","Black",39950,41155,"Good","Roadsport",4.39333333333333,592.363265306122,4.8,41,"False","False",360,1
+"697","NOT HOT",2015,"70D","AWD",31350,"Gray","Gray",44988,45983,"Good","iDeal Motors",5,28,4.8,41,"False","False",42,1
+"698","NOT HOT",2015,"70D","AWD",34717,"White","Black",44000,48529,"Good","Carbiz Greater Washington DC",4.7,74,4.8,41,"False","False",22,2
+"699","NOT HOT",2015,"70D","AWD",20524,"White","Black",48996,54391,"Good","Certified Autoplex, Inc.",4.8,1330,4.8,41,"False","False",138,1
+"700","NOT HOT",2015,"70D","AWD",7712,"Blue","Gray",46988,46658,"Fair","iDeal Motors",5,28,4.8,41,"True","False",22,1
+"701","HOT CAR",2015,"70D","AWD",51353,"Black","Black",41900,41504,"Fair","Sky Motor Cars",4.9,208,4.8,41,"False","False",9,2
+"702","NOT HOT",2015,"70D","AWD",50166,"Blue","Black",32495,51836.0835579515,"not_rating","Northern Kentucky Auto Sales",4.3,68,4.8,41,"False","False",248,1
+"703","NOT HOT",2015,"70D","RWD",50839,"White","Beige",36995,37918,"Good","RDU Auto Sales",5,107,4.8,41,"False","False",40,2
+"704","NOT HOT",2015,"70D","AWD",23789,"Blue","Black",44995,48446,"Good","Auto Expo Ent Inc",4.8,1014,4.8,41,"True","True",273,1
+"705","NOT HOT",2015,"90D","AWD",21845,"Gray","Black",47000,51836.0835579515,"not_rating","Alpha Motorsports",4.7,840,4.8,41,"False","True",206,1
+"706","NOT HOT",2015,"90D","AWD",27433,"Silver","Black",49995,53831,"Good","No. 1 Auto Sales",4.39333333333333,592.363265306122,4.8,41,"False","True",222,1
+"707","NOT HOT",2015,"90D","AWD",36902,"White","Other",68500,68428,"Good","Raptor Automotive",4.3,13,4.8,41,"False","False",31,1
+"708","NOT HOT",2015,"90D","AWD",96900,"Black","Black",53000,46699,"Fair","Sunshine Auto Mall",5,211,4.8,41,"False","True",70,1
+"709","HOT CAR",2015,"85D","AWD",8323,"Gray","Gray",56998,60804,"Good","Kalispell Toyota",4.8,46,4.8,41,"False","False",10,2
+"710","NOT HOT",2015,"85D","AWD",28200,"Red","Black",44962,49938,"Good","Carbone Hyundai of Yorkville",4.7,295,4.8,41,"False","False",43,1
