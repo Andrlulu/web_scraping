@@ -5,3 +5,4 @@ rsconnect/
 
 .Rhistory
 .RData
+.ipynb.ipynb_checkpoints

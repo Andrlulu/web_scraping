@@ -577,6 +577,9 @@ m_df %>% ggplot(aes(x=mileage.x,y=price.x,color=year))+
   theme(legend.key=element_blank())
 
 #price, mil, hot or not
+
+m_df = read.csv('ml_data.csv')
+m_df$year = factor(m_df$year)
 m_df %>% ggplot(aes(x=mileage.x,y=price.x,color=hotornot))+
   geom_point()+
   labs(title='Price, Mileage, and HOT CAR') +
